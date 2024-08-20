@@ -41,11 +41,11 @@ const Badge = styled.div`
 const ProductBrandingTeamEdition = (): JSX.Element => {
     return (
         <ProductBrandingTeamEditionContainer tabIndex={0}>
-            <StyledLogo
+            {/* <StyledLogo
                 width={116}
                 height={20}
             />
-            <Badge>{'FREE EDITION'}</Badge>
+            <Badge>{'FREE EDITION'}</Badge> */}
         </ProductBrandingTeamEditionContainer>
     );
 };

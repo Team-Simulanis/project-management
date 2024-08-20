@@ -27,7 +27,9 @@ const Header = ({alternateLink, backButtonURL, onBackButtonClick}: HeaderProps) 
 
     let freeBanner = null;
     if (license.IsLicensed === 'false') {
-        freeBanner = <><Logo/><span className='freeBadge'>{'FREE EDITION'}</span></>;
+        freeBanner = <>
+        {/* <Logo/><span className='freeBadge'>{'FREE EDITION'}</span> */}
+        </>;
     }
 
     let title: React.ReactNode = SiteName;
@@ -35,7 +37,8 @@ const Header = ({alternateLink, backButtonURL, onBackButtonClick}: HeaderProps) 
         if (freeBanner) {
             title = '';
         } else {
-            title = <Logo/>;
+            // title = <Logo/>;
+            title = '';
         }
     }
 
