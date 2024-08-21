@@ -11,11 +11,11 @@ import type {Team} from '@mattermost/types/teams';
 import {basicUnreadMeta} from 'mattermost-redux/selectors/entities/channels';
 import type {BasicUnreadStatus} from 'mattermost-redux/selectors/entities/channels';
 
-import faviconDefault16x16 from 'images/favicon/favicon-default-16x16.png';
-import faviconDefault24x24 from 'images/favicon/favicon-default-24x24.png';
-import faviconDefault32x32 from 'images/favicon/favicon-default-32x32.png';
-import faviconDefault64x64 from 'images/favicon/favicon-default-64x64.png';
-import faviconDefault96x96 from 'images/favicon/favicon-default-96x96.png';
+import faviconDefault16x16 from 'images/favicon/favicon.png';
+import faviconDefault24x24 from 'images/favicon/favicon.png';
+import faviconDefault32x32 from 'images/favicon/favicon.png';
+import faviconDefault64x64 from 'images/favicon/favicon.png';
+import faviconDefault96x96 from 'images/favicon/favicon.png';
 import faviconMention16x16 from 'images/favicon/favicon-mentions-16x16.png';
 import faviconMention24x24 from 'images/favicon/favicon-mentions-24x24.png';
 import faviconMention32x32 from 'images/favicon/favicon-mentions-32x32.png';
