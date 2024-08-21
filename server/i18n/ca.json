@@ -2281,7 +2281,7 @@
   },
   {
     "id": "mattermost.bulletin.subject",
-    "translation": "Butlletí de seguretat Mattermost"
+    "translation": "Butlletí de seguretat Simulanis Connect"
   },
   {
     "id": "manaultesting.test_autolink.unable.app_error",
@@ -2369,7 +2369,7 @@
   },
   {
     "id": "ent.migration.migratetosaml.username_already_used_by_other_user",
-    "translation": "El nom d'usuari ja utilitza per un altre usuari de Mattermost."
+    "translation": "El nom d'usuari ja utilitza per un altre usuari de Simulanis Connect."
   },
   {
     "id": "ent.migration.migratetosaml.user_not_found_in_users_mapping_file",
@@ -2453,7 +2453,7 @@
   },
   {
     "id": "ent.ldap.syncronize.search_failure.app_error",
-    "translation": "No s'ha pogut cercar usuaris a l'AD / LDAP. Comprova si el servidor de Mattermost pot connectar-se al servidor d'AD/LDAP i torna-ho a provar."
+    "translation": "No s'ha pogut cercar usuaris a l'AD / LDAP. Comprova si el servidor de Simulanis Connect pot connectar-se al servidor d'AD/LDAP i torna-ho a provar."
   },
   {
     "id": "ent.ldap.syncronize.get_all.app_error",
@@ -2465,7 +2465,7 @@
   },
   {
     "id": "ent.ldap.do_login.user_filtered.app_error",
-    "translation": "El vostre compte d'AD/LDAP no té permisos per utilitzar aquest servidor de Mattermost. Demana a l'administrador del sistema que verifiqui el filtre d'usuaris d'AD/LDAP."
+    "translation": "El vostre compte d'AD/LDAP no té permisos per utilitzar aquest servidor de Simulanis Connect. Demana a l'administrador del sistema que verifiqui el filtre d'usuaris d'AD/LDAP."
   },
   {
     "id": "ent.ldap.do_login.unable_to_connect.app_error",
@@ -2645,7 +2645,7 @@
   },
   {
     "id": "api.slackimport.slack_import.log",
-    "translation": "Registre d'importació de Slack a Mattermost\r\n"
+    "translation": "Registre d'importació de Slack a Simulanis Connect\r\n"
   },
   {
     "id": "api.slackimport.slack_add_users.unable_import",
@@ -2657,11 +2657,11 @@
   },
   {
     "id": "api.slackimport.slack_add_users.merge_existing_failed",
-    "translation": "L'usuari de Slack s'ha fusionat amb un usuari Mattermost existent amb el correu {{.Email}} i el nom d'usuari {{.Username}} corresponents, però l'usuari no s'ha pogut afegir al teu equip.\r\n"
+    "translation": "L'usuari de Slack s'ha fusionat amb un usuari Simulanis Connect existent amb el correu {{.Email}} i el nom d'usuari {{.Username}} corresponents, però l'usuari no s'ha pogut afegir al teu equip.\r\n"
   },
   {
     "id": "api.slackimport.slack_add_users.merge_existing",
-    "translation": "L'usuari de Slack s'ha fusionat amb un usuari de Mattermost existent amb el correu {{.Email}} i el nom d'usuari {{.Username}} corresponents.\r\n"
+    "translation": "L'usuari de Slack s'ha fusionat amb un usuari de Simulanis Connect existent amb el correu {{.Email}} i el nom d'usuari {{.Username}} corresponents.\r\n"
   },
   {
     "id": "api.slackimport.slack_add_users.email_pwd",
@@ -2673,7 +2673,7 @@
   },
   {
     "id": "api.slackimport.slack_add_channels.merge",
-    "translation": "El canal de Slack {{.DisplayName}} ja existeix com un canal actiu de Mattermost. S'han fusionat tots dos canals.\r\n"
+    "translation": "El canal de Slack {{.DisplayName}} ja existeix com un canal actiu de Simulanis Connect. S'han fusionat tots dos canals.\r\n"
   },
   {
     "id": "api.slackimport.slack_add_channels.import_failed",
@@ -3765,7 +3765,7 @@
   },
   {
     "id": "api.command_logout.desc",
-    "translation": "Tanca sessió de Mattermost"
+    "translation": "Tanca sessió de Simulanis Connect"
   },
   {
     "id": "api.command_leave.name",
@@ -3873,7 +3873,7 @@
   },
   {
     "id": "api.command_help.desc",
-    "translation": "Obre la pàgina d'ajuda de Mattermost"
+    "translation": "Obre la pàgina d'ajuda de Simulanis Connect"
   },
   {
     "id": "api.command_groupmsg.permission.app_error",
@@ -4149,7 +4149,7 @@
   },
   {
     "id": "api.command.invite_people.desc",
-    "translation": "Envia un correu d'invitació al teu equip de Mattermost"
+    "translation": "Envia un correu d'invitació al teu equip de Simulanis Connect"
   },
   {
     "id": "api.command.execute_command.start.app_error",
@@ -4441,7 +4441,7 @@
   },
   {
     "id": "api.bot.teams_channels.add_message_mobile",
-    "translation": "Si us plau afegeix-me a l'equip i als canals als que vols que interactuí. Per fer això, fes servir el navegador o l'app d'escriptori de Mattermost."
+    "translation": "Si us plau afegeix-me a l'equip i als canals als que vols que interactuí. Per fer això, fes servir el navegador o l'app d'escriptori de Simulanis Connect."
   },
   {
     "id": "api.bot.create_disabled",
@@ -4585,7 +4585,7 @@
   },
   {
     "id": "api.admin.test_email.subject",
-    "translation": "Mattermost - Provant la configuració de correu"
+    "translation": "Simulanis Connect - Provant la configuració de correu"
   },
   {
     "id": "api.admin.test_email.reenter_password",
@@ -4597,7 +4597,7 @@
   },
   {
     "id": "api.admin.test_email.body",
-    "translation": "Sembla que la configuració de correu del Mattermost és correcta!"
+    "translation": "Sembla que la configuració de correu del Simulanis Connect és correcta!"
   },
   {
     "id": "api.admin.saml.set_certificate_from_metadata.missing_content_type.app_error",

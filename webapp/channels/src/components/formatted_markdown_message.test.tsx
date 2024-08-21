@@ -13,7 +13,7 @@ describe('components/FormattedMarkdownMessage', () => {
     test('should render message', () => {
         const props = {
             id: 'test.foo',
-            defaultMessage: '**bold** *italic* [link](https://mattermost.com/) <br/> [link target blank](!https://mattermost.com/)',
+            defaultMessage: '**bold** *italic* [link](https://connect.simulanis.com/) <br/> [link target blank](!https://connect.simulanis.com/)',
         };
         const wrapper = mount(wrapProvider(<FormattedMarkdownMessage {...props}/>));
         expect(wrapper).toMatchSnapshot();

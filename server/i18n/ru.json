@@ -85,7 +85,7 @@
   },
   {
     "id": "api.admin.test_email.body",
-    "translation": "Кажется, ваша электронная почта Mattermost установлена верно!"
+    "translation": "Кажется, ваша электронная почта Simulanis Connect установлена верно!"
   },
   {
     "id": "api.admin.test_email.missing_server",
@@ -97,7 +97,7 @@
   },
   {
     "id": "api.admin.test_email.subject",
-    "translation": "Mattermost - Тестирование настроек электронной почты"
+    "translation": "Simulanis Connect - Тестирование настроек электронной почты"
   },
   {
     "id": "api.admin.test_s3.missing_s3_bucket",
@@ -345,7 +345,7 @@
   },
   {
     "id": "api.command.invite_people.desc",
-    "translation": "Отправить письмо с приглашением в вашу команду Mattermost"
+    "translation": "Отправить письмо с приглашением в вашу команду Simulanis Connect"
   },
   {
     "id": "api.command.invite_people.email_invitations_off",
@@ -621,7 +621,7 @@
   },
   {
     "id": "api.command_help.desc",
-    "translation": "Показать справку Mattermost"
+    "translation": "Показать справку Simulanis Connect"
   },
   {
     "id": "api.command_help.name",
@@ -633,7 +633,7 @@
   },
   {
     "id": "api.command_invite.channel.error",
-    "translation": "Не удалось найти канал {{.Channel}}. Для идентификации каналов используйте [название канала](https://docs.mattermost.com/messaging/managing-channels.html#naming-a-channel)."
+    "translation": "Не удалось найти канал {{.Channel}}. Для идентификации каналов используйте [название канала](https://docs.Simulanis Connect.com/messaging/managing-channels.html#naming-a-channel)."
   },
   {
     "id": "api.command_invite.desc",
@@ -669,7 +669,7 @@
   },
   {
     "id": "api.command_invite.private_channel.app_error",
-    "translation": "Невозможно найти канал {{.Channel}}. Пожалуйста, используйте [управление каналом](https://docs.mattermost.com/messaging/managing-channels.html#naming-a-channel) для идентификации."
+    "translation": "Невозможно найти канал {{.Channel}}. Пожалуйста, используйте [управление каналом](https://docs.Simulanis Connect.com/messaging/managing-channels.html#naming-a-channel) для идентификации."
   },
   {
     "id": "api.command_invite.success",
@@ -729,7 +729,7 @@
   },
   {
     "id": "api.command_logout.desc",
-    "translation": "Выход из Mattermost"
+    "translation": "Выход из Simulanis Connect"
   },
   {
     "id": "api.command_logout.name",
@@ -781,7 +781,7 @@
   },
   {
     "id": "api.command_mute.error",
-    "translation": "Не удалось найти канал {{.Channel}}. Для идентификации каналов используйте [название канала](https://docs.mattermost.com/messaging/managing-channels.html#naming-a-channel)."
+    "translation": "Не удалось найти канал {{.Channel}}. Для идентификации каналов используйте [название канала](https://docs.Simulanis Connect.com/messaging/managing-channels.html#naming-a-channel)."
   },
   {
     "id": "api.command_mute.hint",
@@ -793,7 +793,7 @@
   },
   {
     "id": "api.command_mute.no_channel.error",
-    "translation": "Не удалось найти указанный канал. Пожалуйста, используйте [дескриптор канала](https://docs.mattermost.com/messaging/managing-channels.html#naming-a-channel) для идентификации каналов."
+    "translation": "Не удалось найти указанный канал. Пожалуйста, используйте [дескриптор канала](https://docs.Simulanis Connect.com/messaging/managing-channels.html#naming-a-channel) для идентификации каналов."
   },
   {
     "id": "api.command_mute.not_member.error",
@@ -1521,7 +1521,7 @@
   },
   {
     "id": "api.slackimport.slack_add_channels.merge",
-    "translation": "Slack канал {{.DisplayName}} уже существует в виде канала Mattermost. Произведено слияние.\r\n"
+    "translation": "Slack канал {{.DisplayName}} уже существует в виде канала Simulanis Connect. Произведено слияние.\r\n"
   },
   {
     "id": "api.slackimport.slack_add_users.created",
@@ -1533,11 +1533,11 @@
   },
   {
     "id": "api.slackimport.slack_add_users.merge_existing",
-    "translation": "Slack пользователь слился с существующим пользователем Mattermost с соответствующим адресом электронной почты {{.Email}} и именем пользователя {{.Username}}.\r\n"
+    "translation": "Slack пользователь слился с существующим пользователем Simulanis Connect с соответствующим адресом электронной почты {{.Email}} и именем пользователя {{.Username}}.\r\n"
   },
   {
     "id": "api.slackimport.slack_add_users.merge_existing_failed",
-    "translation": "Пользователь Slack объединен с существующим пользователем Mattermost по совпадению email {{.Email}} и имени пользователя {{.Username}}, но было невозможно добавить пользователя в его команду.\r\n"
+    "translation": "Пользователь Slack объединен с существующим пользователем Simulanis Connect по совпадению email {{.Email}} и имени пользователя {{.Username}}, но было невозможно добавить пользователя в его команду.\r\n"
   },
   {
     "id": "api.slackimport.slack_add_users.missing_email_address",
@@ -1549,7 +1549,7 @@
   },
   {
     "id": "api.slackimport.slack_import.log",
-    "translation": "Лог импорта Mattermost Slack\r\n"
+    "translation": "Лог импорта Simulanis Connect Slack\r\n"
   },
   {
     "id": "api.slackimport.slack_import.note1",
@@ -1857,7 +1857,7 @@
   },
   {
     "id": "api.templates.post_body.button",
-    "translation": "Ответить в Mattermost"
+    "translation": "Ответить в Simulanis Connect"
   },
   {
     "id": "api.templates.reset_body.button",
@@ -1917,7 +1917,7 @@
   },
   {
     "id": "api.templates.verify_body.info",
-    "translation": "Этот адрес электронной почты был использован для создания учётной записи Mattermost."
+    "translation": "Этот адрес электронной почты был использован для создания учётной записи Simulanis Connect."
   },
   {
     "id": "api.templates.verify_body.title",
@@ -1937,7 +1937,7 @@
   },
   {
     "id": "api.templates.welcome_body.info",
-    "translation": "Этот email-адрес был использован для создания учётной записи Mattermost."
+    "translation": "Этот email-адрес был использован для создания учётной записи Simulanis Connect."
   },
   {
     "id": "api.templates.welcome_body.title",
@@ -3149,7 +3149,7 @@
   },
   {
     "id": "ent.elasticsearch.test_config.license.error",
-    "translation": "Ваша версия сервера Mattermost не поддерживает Elasticsearch."
+    "translation": "Ваша версия сервера Simulanis Connect не поддерживает Elasticsearch."
   },
   {
     "id": "ent.elasticsearch.test_config.reenter_password",
@@ -3193,7 +3193,7 @@
   },
   {
     "id": "ent.ldap.do_login.user_filtered.app_error",
-    "translation": "Ваша учетная запись AD/LDAP не имеет разрешения на использование этого сервера Mattermost. Пожалуйста, обратитесь к системному администратору, чтобы проверить фильтр пользователей AD/LDAP."
+    "translation": "Ваша учетная запись AD/LDAP не имеет разрешения на использование этого сервера Simulanis Connect. Пожалуйста, обратитесь к системному администратору, чтобы проверить фильтр пользователей AD/LDAP."
   },
   {
     "id": "ent.ldap.do_login.user_not_registered.app_error",
@@ -3213,7 +3213,7 @@
   },
   {
     "id": "ent.ldap.syncronize.search_failure.app_error",
-    "translation": "Не удалось найти пользователей в AD/LDAP. Проверьте, может ли сервер Mattermost подключиться к вашему серверу AD/LDAP, и попробуйте снова."
+    "translation": "Не удалось найти пользователей в AD/LDAP. Проверьте, может ли сервер Simulanis Connect подключиться к вашему серверу AD/LDAP, и попробуйте снова."
   },
   {
     "id": "ent.ldap.validate_filter.app_error",
@@ -3309,7 +3309,7 @@
   },
   {
     "id": "ent.migration.migratetosaml.username_already_used_by_other_user",
-    "translation": "Имя пользователя уже используется другим пользователем Mattermost."
+    "translation": "Имя пользователя уже используется другим пользователем Simulanis Connect."
   },
   {
     "id": "ent.saml.attribute.app_error",
@@ -3392,8 +3392,8 @@
     "translation": "Невозможно получить каналы."
   },
   {
-    "id": "mattermost.bulletin.subject",
-    "translation": "Бюллетень безопасности Mattermost"
+    "id": "Simulanis Connect.bulletin.subject",
+    "translation": "Бюллетень безопасности Simulanis Connect"
   },
   {
     "id": "mfa.activate.bad_token.app_error",
@@ -4537,7 +4537,7 @@
   },
   {
     "id": "oauth.gitlab.tos.error",
-    "translation": "Условия предоставления услуг GitLab обновлены. Пожалуйста, зайдите на {{.URL}}, чтобы принять их, а затем попробуйте снова войти в Mattermost."
+    "translation": "Условия предоставления услуг GitLab обновлены. Пожалуйста, зайдите на {{.URL}}, чтобы принять их, а затем попробуйте снова войти в Simulanis Connect."
   },
   {
     "id": "plugin.api.update_user_status.bad_status",
@@ -4669,7 +4669,7 @@
   },
   {
     "id": "api.license.request_trial_license.app_error",
-    "translation": "Не удалось получить пробную лицензию, попробуйте еще раз или свяжитесь с support@mattermost.com."
+    "translation": "Не удалось получить пробную лицензию, попробуйте еще раз или свяжитесь с support@Simulanis Connect.com."
   },
   {
     "id": "api.admin.delete_brand_image.storage.not_found",
@@ -4685,7 +4685,7 @@
   },
   {
     "id": "api.bot.teams_channels.add_message_mobile",
-    "translation": "Пожалуйста, добавьте меня в команды и каналы, c которыми мне нужно взаимодействовать. Это можно сделать в браузере или в приложении Mattermost для ПК."
+    "translation": "Пожалуйста, добавьте меня в команды и каналы, c которыми мне нужно взаимодействовать. Это можно сделать в браузере или в приложении Simulanis Connect для ПК."
   },
   {
     "id": "api.channel.get_channel_moderations.license.error",
@@ -5257,7 +5257,7 @@
   },
   {
     "id": "app.bot.get_disable_bot_sysadmin_message",
-    "translation": "{{if .disableBotsSetting}}{{if .printAllBots}}{{.UserName}} были деактивированы. Они управляли следующими учетными записями ботов, которые теперь отключены.\n\n{{.BotNames}}{{else}}{{.UserName}} были деактивированы. Они управляли {{.NumBots}} учетными записями ботов, которые теперь отключены, включая следующие:\n\n{{.BotNames}}{{end}} Вы можете стать владельцем каждого бота, включив его в разделе **Интеграции > Учетные записи ботов** и создав новые токены для бота.\n\nДля получения дополнительной информации см. Нашу [документацию](https://docs.mattermost.com/developer/bot-accounts.html#what-happens-when-a-user-who-owns-bot-accounts-is-disabled).{{else}}{{if .printAllBots}}{{.UserName}} были деактивированы. Они управляли следующими учетными записями ботов, которые все еще включены.\n\n{{.BotNames}}\n{{else}}{{.UserName}} были деактивированы. Они управляли {{.NumBots}} учетными записями ботов, которые по-прежнему включены, включая следующие:\n\n{{.BotNames}}{{end}} Мы настоятельно рекомендуем вам стать владельцем каждого бота, повторно включив его в разделе **Интеграция > Учетные записи ботов** и создав новые токены для бота.\n\nДля получения дополнительной информации см. Нашу [документацию](https://docs.mattermost.com/developer/bot-accounts.html#what-happens-when-a-user-who-owns-bot-accounts-is-disabled).\n\nЕсли вы хотите, чтобы учетные записи ботов автоматически отключались после деактивации пользователя, установите для параметра «Отключить учетные записи ботов после деактивации пользователя» в **Системная консоль > Интеграция > Учетные записи ботов** значение \"да\".{{end}}"
+    "translation": "{{if .disableBotsSetting}}{{if .printAllBots}}{{.UserName}} были деактивированы. Они управляли следующими учетными записями ботов, которые теперь отключены.\n\n{{.BotNames}}{{else}}{{.UserName}} были деактивированы. Они управляли {{.NumBots}} учетными записями ботов, которые теперь отключены, включая следующие:\n\n{{.BotNames}}{{end}} Вы можете стать владельцем каждого бота, включив его в разделе **Интеграции > Учетные записи ботов** и создав новые токены для бота.\n\nДля получения дополнительной информации см. Нашу [документацию](https://docs.Simulanis Connect.com/developer/bot-accounts.html#what-happens-when-a-user-who-owns-bot-accounts-is-disabled).{{else}}{{if .printAllBots}}{{.UserName}} были деактивированы. Они управляли следующими учетными записями ботов, которые все еще включены.\n\n{{.BotNames}}\n{{else}}{{.UserName}} были деактивированы. Они управляли {{.NumBots}} учетными записями ботов, которые по-прежнему включены, включая следующие:\n\n{{.BotNames}}{{end}} Мы настоятельно рекомендуем вам стать владельцем каждого бота, повторно включив его в разделе **Интеграция > Учетные записи ботов** и создав новые токены для бота.\n\nДля получения дополнительной информации см. Нашу [документацию](https://docs.Simulanis Connect.com/developer/bot-accounts.html#what-happens-when-a-user-who-owns-bot-accounts-is-disabled).\n\nЕсли вы хотите, чтобы учетные записи ботов автоматически отключались после деактивации пользователя, установите для параметра «Отключить учетные записи ботов после деактивации пользователя» в **Системная консоль > Интеграция > Учетные записи ботов** значение \"да\".{{end}}"
   },
   {
     "id": "app.channel.get_more_channels.get.app_error",
@@ -5433,7 +5433,7 @@
   },
   {
     "id": "ent.ldap.syncronize.search_failure_size_exceeded.app_error",
-    "translation": "Превышен лимит размера. Попробуйте увеличить настройку \"Максимальный размер страницы\". Подробнее об этом читайте на сайте https://docs.mattermost.com/onboard/ad-ldap.html#i-see-the-log-error-ldap-result-code-4-size-limit-exceeded."
+    "translation": "Превышен лимит размера. Попробуйте увеличить настройку \"Максимальный размер страницы\". Подробнее об этом читайте на сайте https://docs.Simulanis Connect.com/onboard/ad-ldap.html#i-see-the-log-error-ldap-result-code-4-size-limit-exceeded."
   },
   {
     "id": "group_not_associated_to_synced_team",
@@ -5529,7 +5529,7 @@
   },
   {
     "id": "web.error.unsupported_browser.no_longer_support_version",
-    "translation": "Эта версия вашего браузера больше не поддерживается Mattermost"
+    "translation": "Эта версия вашего браузера больше не поддерживается Simulanis Connect"
   },
   {
     "id": "ent.get_users_in_channel_during",
@@ -5637,7 +5637,7 @@
   },
   {
     "id": "api.templates.remove_expired_license.subject",
-    "translation": "Корпоративная лицензия Mattermost была отключена."
+    "translation": "Корпоративная лицензия Simulanis Connect была отключена."
   },
   {
     "id": "api.user.create_user.invalid_invitation_type.app_error",
@@ -5773,7 +5773,7 @@
   },
   {
     "id": "web.error.unsupported_browser.download_app_or_upgrade_browser",
-    "translation": "Загрузите приложение Mattermost или используйте поддерживаемый браузер для лучшей работы."
+    "translation": "Загрузите приложение Simulanis Connect или используйте поддерживаемый браузер для лучшей работы."
   },
   {
     "id": "web.error.unsupported_browser.download_the_app",
@@ -5813,7 +5813,7 @@
   },
   {
     "id": "web.error.unsupported_browser.no_longer_support",
-    "translation": "Этот браузер больше не поддерживается Mattermost"
+    "translation": "Этот браузер больше не поддерживается Simulanis Connect"
   },
   {
     "id": "web.error.unsupported_browser.open_system_browser.edge",
@@ -5913,7 +5913,7 @@
   },
   {
     "id": "api.license.request-trial.bad-request.terms-not-accepted",
-    "translation": "Вы должны принять Соглашение об оценке программного обеспечения Mattermost и Политику конфиденциальности, чтобы запросить лицензию."
+    "translation": "Вы должны принять Соглашение об оценке программного обеспечения Simulanis Connect и Политику конфиденциальности, чтобы запросить лицензию."
   },
   {
     "id": "app.recover.save.app_error",
@@ -6469,43 +6469,43 @@
   },
   {
     "id": "api.upgrade_to_enterprise_status.signature.app_error",
-    "translation": "Mattermost не удалось обновить до Корпоративной редакции. Не удалось проверить цифровую подпись загруженного двоичного файла."
+    "translation": "Simulanis Connect не удалось обновить до Корпоративной редакции. Не удалось проверить цифровую подпись загруженного двоичного файла."
   },
   {
     "id": "api.upgrade_to_enterprise_status.app_error",
-    "translation": "Mattermost не удалось обновить до Корпоративной редакции."
+    "translation": "Simulanis Connect не удалось обновить до Корпоративной редакции."
   },
   {
     "id": "api.upgrade_to_enterprise.system_not_supported.app_error",
-    "translation": "Mattermost не удалось обновить до Корпоративной редакции. Эта функция будет работать только в системах Linux с архитектурой x86-64."
+    "translation": "Simulanis Connect не удалось обновить до Корпоративной редакции. Эта функция будет работать только в системах Linux с архитектурой x86-64."
   },
   {
     "id": "api.upgrade_to_enterprise.invalid-user.app_error",
-    "translation": "Mattermost не удалось обновить до Корпоративной редакции. Системный пользователь Mattermost {{.MattermostUsername}} не имеет прав на запись в необходимый двоичный файл. Системный администратор может обновить права доступа к файлам, выполнив следующую команду на сервере, где установлен Mattermost:\n\n```\nchown {{.MattermostUsername}} \"{{.Path}}\"\n```\n\nПосле изменения прав доступа к файлу попробуйте снова обновить Mattermost. После обновления и перезапуска не забудьте восстановить исходные разрешения для двоичного файла:\n\n```\nchown {{.FileUsername}} \"{{.Path}}\"\n```"
+    "translation": "Simulanis Connect не удалось обновить до Корпоративной редакции. Системный пользователь Simulanis Connect {{.Simulanis ConnectUsername}} не имеет прав на запись в необходимый двоичный файл. Системный администратор может обновить права доступа к файлам, выполнив следующую команду на сервере, где установлен Simulanis Connect:\n\n```\nchown {{.Simulanis ConnectUsername}} \"{{.Path}}\"\n```\n\nПосле изменения прав доступа к файлу попробуйте снова обновить Simulanis Connect. После обновления и перезапуска не забудьте восстановить исходные разрешения для двоичного файла:\n\n```\nchown {{.FileUsername}} \"{{.Path}}\"\n```"
   },
   {
     "id": "api.upgrade_to_enterprise.invalid-user-and-permission.app_error",
-    "translation": "Mattermost не удалось обновить до Корпоративной редакции. Системный пользователь Mattermost {{.MattermostUsername}} не имеет прав на запись в необходимый двоичный файл. Системный администратор может обновить права доступа к файлам, выполнив следующую команду на сервере, где установлен Mattermost:\n\n```\nchown {{.MattermostUsername}} \"{{.Path}}\"\nchmod +w \"{{.Path}}\"\n```\n\nПосле изменения прав доступа к файлу попробуйте снова обновить Mattermost. После обновления и перезапуска не забудьте восстановить исходные разрешения для двоичного файла:\n\n```\nchown {{.FileUsername}} \"{{.Path}}\"\nchmod -w \"{{.Path}}\"\n```"
+    "translation": "Simulanis Connect не удалось обновить до Корпоративной редакции. Системный пользователь Simulanis Connect {{.Simulanis ConnectUsername}} не имеет прав на запись в необходимый двоичный файл. Системный администратор может обновить права доступа к файлам, выполнив следующую команду на сервере, где установлен Simulanis Connect:\n\n```\nchown {{.Simulanis ConnectUsername}} \"{{.Path}}\"\nchmod +w \"{{.Path}}\"\n```\n\nПосле изменения прав доступа к файлу попробуйте снова обновить Simulanis Connect. После обновления и перезапуска не забудьте восстановить исходные разрешения для двоичного файла:\n\n```\nchown {{.FileUsername}} \"{{.Path}}\"\nchmod -w \"{{.Path}}\"\n```"
   },
   {
     "id": "api.upgrade_to_enterprise.invalid-permission.app_error",
-    "translation": "Mattermost не удалось обновить до Корпоративной редакции. Системный пользователь Mattermost {{.MattermostUsername}} не имеет прав на запись в необходимый двоичный файл. Системный администратор может обновить права доступа к файлам, выполнив следующую команду на сервере, где установлен Mattermost:\n\n```\nchmod +w \"{{.Path}}\"\n```\n\nПосле изменения прав доступа к файлу попробуйте снова обновить Mattermost. После обновления и перезапуска не забудьте восстановить исходные разрешения для двоичного файла:\n\n```\nchmod -w \"{{.Path}}\"\n```"
+    "translation": "Simulanis Connect не удалось обновить до Корпоративной редакции. Системный пользователь Simulanis Connect {{.Simulanis ConnectUsername}} не имеет прав на запись в необходимый двоичный файл. Системный администратор может обновить права доступа к файлам, выполнив следующую команду на сервере, где установлен Simulanis Connect:\n\n```\nchmod +w \"{{.Path}}\"\n```\n\nПосле изменения прав доступа к файлу попробуйте снова обновить Simulanis Connect. После обновления и перезапуска не забудьте восстановить исходные разрешения для двоичного файла:\n\n```\nchmod -w \"{{.Path}}\"\n```"
   },
   {
     "id": "api.upgrade_to_enterprise.generic_error.app_error",
-    "translation": "Mattermost не удалось обновить до Корпоративной редакции."
+    "translation": "Simulanis Connect не удалось обновить до Корпоративной редакции."
   },
   {
     "id": "api.upgrade_to_enterprise.app_error",
-    "translation": "Обновление до Mattermost Корпоративная редакция уже выполняется."
+    "translation": "Обновление до Simulanis Connect Корпоративная редакция уже выполняется."
   },
   {
     "id": "api.upgrade_to_enterprise.already-enterprise.app_error",
-    "translation": "Вы не можете выполнить обновление, потому что вы уже используете Mattermost Корпоративная редакция."
+    "translation": "Вы не можете выполнить обновление, потому что вы уже используете Simulanis Connect Корпоративная редакция."
   },
   {
     "id": "api.upgrade_to_enterprise.already-done.app_error",
-    "translation": "Вы уже перешли на Mattermost Корпоративная редакция. Пожалуйста, перезапустите сервер, чтобы завершить обновление."
+    "translation": "Вы уже перешли на Simulanis Connect Корпоративная редакция. Пожалуйста, перезапустите сервер, чтобы завершить обновление."
   },
   {
     "id": "app.job.update.app_error",
@@ -7629,7 +7629,7 @@
   },
   {
     "id": "api.templates.invite_body_footer.title",
-    "translation": "Что такое Mattermost?"
+    "translation": "Что такое Simulanis Connect?"
   },
   {
     "id": "api.templates.invite_body_footer.learn_more",
@@ -7637,11 +7637,11 @@
   },
   {
     "id": "api.templates.invite_body_footer.info",
-    "translation": "Mattermost - это гибкая платформа обмена сообщениями с открытым исходным кодом, обеспечивающая безопасную совместную работу в команде."
+    "translation": "Simulanis Connect - это гибкая платформа обмена сообщениями с открытым исходным кодом, обеспечивающая безопасную совместную работу в команде."
   },
   {
     "id": "api.templates.invite_body.subTitle",
-    "translation": "Начните работу с вашей командой на Mattermost"
+    "translation": "Начните работу с вашей командой на Simulanis Connect"
   },
   {
     "id": "api.templates.email_us_anytime_at",
@@ -7649,7 +7649,7 @@
   },
   {
     "id": "api.templates.email_footer_v2",
-    "translation": "© 2022 Mattermost, Inc. 530 Lytton Avenue, Second floor, Palo Alto, CA, 94301"
+    "translation": "© 2022 Simulanis Connect, Inc. 530 Lytton Avenue, Second floor, Palo Alto, CA, 94301"
   },
   {
     "id": "api.templates.cloud_welcome_email.title",
@@ -7701,11 +7701,11 @@
   },
   {
     "id": "api.templates.cloud_welcome_email.download_mm_info",
-    "translation": "Скачать Mattermost App"
+    "translation": "Скачать Simulanis Connect App"
   },
   {
     "id": "api.templates.cloud_welcome_email.button",
-    "translation": "Открыть Mattermost"
+    "translation": "Открыть Simulanis Connect"
   },
   {
     "id": "api.templates.cloud_welcome_email.app_market_place",
@@ -7841,7 +7841,7 @@
   },
   {
     "id": "api.command_share.desc",
-    "translation": "Разделяет текущий канал с удалённым экземпляром Mattermost."
+    "translation": "Разделяет текущий канал с удалённым экземпляром Simulanis Connect."
   },
   {
     "id": "api.command_share.could_not_uninvite.error",
@@ -7989,7 +7989,7 @@
   },
   {
     "id": "api.command_remote.desc",
-    "translation": "Создайте безопасные соединения для связи между экземплярами Mattermost."
+    "translation": "Создайте безопасные соединения для связи между экземплярами Simulanis Connect."
   },
   {
     "id": "api.command_remote.decode_invitation.error",
@@ -8013,7 +8013,7 @@
   },
   {
     "id": "api.command_remote.accept.help",
-    "translation": "Принять приглашение от внешнего кластера Mattermost"
+    "translation": "Принять приглашение от внешнего кластера Simulanis Connect"
   },
   {
     "id": "api.command_share.share_read_only.hint",
@@ -8281,7 +8281,7 @@
   },
   {
     "id": "api.email_batching.send_batched_email_notification.button",
-    "translation": "Открыть Mattermost"
+    "translation": "Открыть Simulanis Connect"
   },
   {
     "id": "api.custom_status.set_custom_statuses.update.app_error",
@@ -8301,7 +8301,7 @@
   },
   {
     "id": "api.license.request-trial.can-start-trial.not-allowed",
-    "translation": "Не удалось применить новую пробную лицензию. Вы уже применяли пробную лицензию к этому экземпляру Mattermost. Если вы хотите продлить пробный период, пожалуйста, [свяжитесь с нашим отделом продаж] (https://mattermost.com/contact-us/)."
+    "translation": "Не удалось применить новую пробную лицензию. Вы уже применяли пробную лицензию к этому экземпляру Simulanis Connect. Если вы хотите продлить пробный период, пожалуйста, [свяжитесь с нашим отделом продаж] (https://Simulanis Connect.com/contact-us/)."
   },
   {
     "id": "api.license.request-trial.can-start-trial.error",
@@ -8349,7 +8349,7 @@
   },
   {
     "id": "app.notification.footer.infoLogin",
-    "translation": "Войти в Mattermost"
+    "translation": "Войти в Simulanis Connect"
   },
   {
     "id": "app.notification.footer.info",
@@ -8437,11 +8437,11 @@
   },
   {
     "id": "api.templates.license_up_for_renewal_title",
-    "translation": "Ваша подписка Mattermost подлежит продлению"
+    "translation": "Ваша подписка Simulanis Connect подлежит продлению"
   },
   {
     "id": "api.templates.license_up_for_renewal_subtitle",
-    "translation": "{{.UserName}}, срок действия Вашей подписки истекает через {{.Days}} дней. Мы надеемся, что Вам нравится гибкое и безопасное командное сотрудничество, которое обеспечивает Mattermost. Продлите подписку в ближайшее время, чтобы Ваша команда могла продолжать пользоваться этими преимуществами."
+    "translation": "{{.UserName}}, срок действия Вашей подписки истекает через {{.Days}} дней. Мы надеемся, что Вам нравится гибкое и безопасное командное сотрудничество, которое обеспечивает Simulanis Connect. Продлите подписку в ближайшее время, чтобы Ваша команда могла продолжать пользоваться этими преимуществами."
   },
   {
     "id": "api.templates.license_up_for_renewal_subject",
@@ -8608,8 +8608,8 @@
     "translation": "Ошибка при попытке сохранить первую полную настройку администратора в магазине."
   },
   {
-    "id": "model.oauth.is_valid.mattermost_app_id.app_error",
-    "translation": "Максимальная длина MattermostAppID — 32 символа."
+    "id": "model.oauth.is_valid.Simulanis Connect_app_id.app_error",
+    "translation": "Максимальная длина Simulanis ConnectAppID — 32 символа."
   },
   {
     "id": "app.channel.get_file_count.app_error",
@@ -8661,7 +8661,7 @@
   },
   {
     "id": "api.license.request_trial_license.embargoed",
-    "translation": "Нам не удалось обработать запрос из-за ограничений для стран, на которые распространяется эмбарго. [Подробнее читайте в нашей документации](https://mattermost.com/pl/limitations-for-embargoed-countries) или обращайтесь по адресу legal@mattermost.com, если у вас есть вопросы об экспортных ограничениях."
+    "translation": "Нам не удалось обработать запрос из-за ограничений для стран, на которые распространяется эмбарго. [Подробнее читайте в нашей документации](https://Simulanis Connect.com/pl/limitations-for-embargoed-countries) или обращайтесь по адресу legal@Simulanis Connect.com, если у вас есть вопросы об экспортных ограничениях."
   },
   {
     "id": "api.getThreadsForUser.bad_only_params",
@@ -8685,7 +8685,7 @@
   },
   {
     "id": "api.file.cloud_upload.app_error",
-    "translation": "Загрузка через mmctl в экземпляр Cloud не поддерживается. Пожалуйста, ознакомьтесь с документацией здесь: https://docs.mattermost.com/manage/cloud-data-export.html."
+    "translation": "Загрузка через mmctl в экземпляр Cloud не поддерживается. Пожалуйста, ознакомьтесь с документацией здесь: https://docs.Simulanis Connect.com/manage/cloud-data-export.html."
   },
   {
     "id": "api.elasticsearch.test_elasticsearch_settings_nil.app_error",
@@ -8705,7 +8705,7 @@
   },
   {
     "id": "api.command_help.success",
-    "translation": "Mattermost - это платформа с открытым исходным кодом для безопасного общения, сотрудничества и организации работы между командами с использованием различных инструментов.\nMattermost состоит из двух ключевых инструментов:\n\n**Channels** - Каналы - оставайтесь всегда на связи со своей командой посредством 1:1 и групповых чатов.\n**[Playbooks](/playbooks)** - Сценарии - создавайте и настраивайте повторяющиеся процессы для достижения конкретных и предсказуемых результатов.\n\n[Посмотреть документацию и руководства]({{.HelpLink}})"
+    "translation": "Simulanis Connect - это платформа с открытым исходным кодом для безопасного общения, сотрудничества и организации работы между командами с использованием различных инструментов.\nSimulanis Connect состоит из двух ключевых инструментов:\n\n**Channels** - Каналы - оставайтесь всегда на связи со своей командой посредством 1:1 и групповых чатов.\n**[Playbooks](/playbooks)** - Сценарии - создавайте и настраивайте повторяющиеся процессы для достижения конкретных и предсказуемых результатов.\n\n[Посмотреть документацию и руководства]({{.HelpLink}})"
   },
   {
     "id": "api.cloud.teams_limit_reached.restore",
@@ -8981,7 +8981,7 @@
   },
   {
     "id": "api.server.cws.needs_enterprise_edition",
-    "translation": "Услуга доступна только в редакции Mattermost Enterprise"
+    "translation": "Услуга доступна только в редакции Simulanis Connect Enterprise"
   },
   {
     "id": "api.system.logs.invalidFilter",
@@ -9745,7 +9745,7 @@
   },
   {
     "id": "api.server.cws.disabled",
-    "translation": "Взаимодействие с клиентским порталом Mattermost было отключено системным администратором."
+    "translation": "Взаимодействие с клиентским порталом Simulanis Connect было отключено системным администратором."
   },
   {
     "id": "model.user.is_valid.invalidProperty.app_error",
@@ -9969,7 +9969,7 @@
   },
   {
     "id": "app.channel.elasticsearch_channel_index.notify_admin.message",
-    "translation": "Схема индекса Elasticsearch для вашего канала устарела. Рекомендуется перегенерировать индекс каналов.\nНажмите кнопку `Rebuild Channels Index` в разделе [Elasticsearch в Системной консоли]({{.ElasticsearchSection}}), чтобы исправить проблему.\nБолее подробную информацию смотрите в журнале изменений Mattermost."
+    "translation": "Схема индекса Elasticsearch для вашего канала устарела. Рекомендуется перегенерировать индекс каналов.\nНажмите кнопку `Rebuild Channels Index` в разделе [Elasticsearch в Системной консоли]({{.ElasticsearchSection}}), чтобы исправить проблему.\nБолее подробную информацию смотрите в журнале изменений Simulanis Connect."
   },
   {
     "id": "api.post.check_for_out_of_team_mentions.message.multiple",
@@ -9989,7 +9989,7 @@
   },
   {
     "id": "api.config.update.elasticsearch.autocomplete_cannot_be_enabled_error",
-    "translation": "Автозаполнение каналов не может быть включено, так как схема индекса каналов устарела. Рекомендуется перегенерировать индекс каналов. Более подробную информацию можно найти в журнале изменений Mattermost"
+    "translation": "Автозаполнение каналов не может быть включено, так как схема индекса каналов устарела. Рекомендуется перегенерировать индекс каналов. Более подробную информацию можно найти в журнале изменений Simulanis Connect"
   },
   {
     "id": "app.import.attachment.file_stat.error",

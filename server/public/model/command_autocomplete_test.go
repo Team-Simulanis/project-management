@@ -68,7 +68,7 @@ func TestAutocompleteData(t *testing.T) {
 func getAutocompleteData() *AutocompleteData {
 	ad := NewAutocompleteData("jira", "", "Available commands:")
 	ad.RoleID = SystemUserRoleId
-	command := NewAutocompleteData("connect", "", "Connect to mattermost")
+	command := NewAutocompleteData("connect", "", "Connect to Simulanis Connect")
 	command.RoleID = SystemAdminRoleId
 	items := []AutocompleteListItem{
 		{

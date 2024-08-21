@@ -85,7 +85,7 @@
   },
   {
     "id": "api.admin.test_email.body",
-    "translation": "Deine Mattermost E-Mail-Einrichtung scheint korrekt zu sein!"
+    "translation": "Deine Simulanis Connect E-Mail-Einrichtung scheint korrekt zu sein!"
   },
   {
     "id": "api.admin.test_email.missing_server",
@@ -97,7 +97,7 @@
   },
   {
     "id": "api.admin.test_email.subject",
-    "translation": "Mattermost - E-Mail-Einstellungen überprüfen"
+    "translation": "Simulanis Connect - E-Mail-Einstellungen überprüfen"
   },
   {
     "id": "api.admin.test_s3.missing_s3_bucket",
@@ -345,7 +345,7 @@
   },
   {
     "id": "api.command.invite_people.desc",
-    "translation": "Eine E-Mail-Einladung zu deinem Mattermost-Team senden"
+    "translation": "Eine E-Mail-Einladung zu deinem Simulanis Connect-Team senden"
   },
   {
     "id": "api.command.invite_people.email_invitations_off",
@@ -620,7 +620,7 @@
   },
   {
     "id": "api.command_help.desc",
-    "translation": "Zeige Mattermost-Hilfemeldung"
+    "translation": "Zeige Simulanis Connect-Hilfemeldung"
   },
   {
     "id": "api.command_help.name",
@@ -632,7 +632,7 @@
   },
   {
     "id": "api.command_invite.channel.error",
-    "translation": "Konnte den Kanal {{.Channel}} nicht finden. Bitte nutze den [Kanal-Handle](https://docs.mattermost.com/messaging/managing-channels.html#naming-a-channel), um Kanäle zu identifizieren."
+    "translation": "Konnte den Kanal {{.Channel}} nicht finden. Bitte nutze den [Kanal-Handle](https://docs.Simulanis Connect.com/messaging/managing-channels.html#naming-a-channel), um Kanäle zu identifizieren."
   },
   {
     "id": "api.command_invite.desc",
@@ -668,7 +668,7 @@
   },
   {
     "id": "api.command_invite.private_channel.app_error",
-    "translation": "Konnte den Kanal {{.Channel}} nicht finden. Bitte den [Kanal Handle](https://docs.mattermost.com/messaging/managing-channels.html#naming-a-channel) verwenden, um Kanäle zu identifizieren."
+    "translation": "Konnte den Kanal {{.Channel}} nicht finden. Bitte den [Kanal Handle](https://docs.Simulanis Connect.com/messaging/managing-channels.html#naming-a-channel) verwenden, um Kanäle zu identifizieren."
   },
   {
     "id": "api.command_invite.success",
@@ -727,7 +727,7 @@
   },
   {
     "id": "api.command_logout.desc",
-    "translation": "Von Mattermost abmelden"
+    "translation": "Von Simulanis Connect abmelden"
   },
   {
     "id": "api.command_logout.name",
@@ -779,7 +779,7 @@
   },
   {
     "id": "api.command_mute.error",
-    "translation": "Konnte den Kanal {{.Channel}} nicht finden. Bitte nutze den [Kanal-Handle](https://docs.mattermost.com/messaging/managing-channels.html#naming-a-channel), um Kanäle zu identifizieren."
+    "translation": "Konnte den Kanal {{.Channel}} nicht finden. Bitte nutze den [Kanal-Handle](https://docs.Simulanis Connect.com/messaging/managing-channels.html#naming-a-channel), um Kanäle zu identifizieren."
   },
   {
     "id": "api.command_mute.hint",
@@ -791,7 +791,7 @@
   },
   {
     "id": "api.command_mute.no_channel.error",
-    "translation": "Konnte den Kanal nicht finden. Bitte nutze den [Kanal-Handle](https://docs.mattermost.com/messaging/managing-channels.html#naming-a-channel), um Kanäle zu identifizieren."
+    "translation": "Konnte den Kanal nicht finden. Bitte nutze den [Kanal-Handle](https://docs.Simulanis Connect.com/messaging/managing-channels.html#naming-a-channel), um Kanäle zu identifizieren."
   },
   {
     "id": "api.command_mute.not_member.error",
@@ -1516,7 +1516,7 @@
   },
   {
     "id": "api.slackimport.slack_add_channels.merge",
-    "translation": "Der Slack-Kanal {{.DisplayName}} existiert bereits als aktiver Mattermost-Kanal. Beide Kanäle wurden zusammengeführt.\r\n"
+    "translation": "Der Slack-Kanal {{.DisplayName}} existiert bereits als aktiver Simulanis Connect-Kanal. Beide Kanäle wurden zusammengeführt.\r\n"
   },
   {
     "id": "api.slackimport.slack_add_users.created",
@@ -1528,11 +1528,11 @@
   },
   {
     "id": "api.slackimport.slack_add_users.merge_existing",
-    "translation": "Slack-Benutzer mit existierendem Mattermost-Benutzer mit identischer E-Mail-Adresse {{.Email}} und Benutzername {{.Username}} zusammengeführt.\r\n"
+    "translation": "Slack-Benutzer mit existierendem Simulanis Connect-Benutzer mit identischer E-Mail-Adresse {{.Email}} und Benutzername {{.Username}} zusammengeführt.\r\n"
   },
   {
     "id": "api.slackimport.slack_add_users.merge_existing_failed",
-    "translation": "Slack-Benutzer mit existierendem Mattermost-Benutzer mit identischer E-Mail-Adresse {{.Email}} und Benutzername {{.Username}} zusammengeführt, konnte aber den Benutzer nicht zu seinem Team hinzufügen.\r\n"
+    "translation": "Slack-Benutzer mit existierendem Simulanis Connect-Benutzer mit identischer E-Mail-Adresse {{.Email}} und Benutzername {{.Username}} zusammengeführt, konnte aber den Benutzer nicht zu seinem Team hinzufügen.\r\n"
   },
   {
     "id": "api.slackimport.slack_add_users.missing_email_address",
@@ -1544,7 +1544,7 @@
   },
   {
     "id": "api.slackimport.slack_import.log",
-    "translation": "Mattermost Slack Import Protokoll\n"
+    "translation": "Simulanis Connect Slack Import Protokoll\n"
   },
   {
     "id": "api.slackimport.slack_import.note1",
@@ -1852,7 +1852,7 @@
   },
   {
     "id": "api.templates.post_body.button",
-    "translation": "Antworte in Mattermost"
+    "translation": "Antworte in Simulanis Connect"
   },
   {
     "id": "api.templates.reset_body.button",
@@ -1912,7 +1912,7 @@
   },
   {
     "id": "api.templates.verify_body.info",
-    "translation": "Diese E-Mail-Adresse wurde verwendet um ein Konto bei Mattermost anzulegen."
+    "translation": "Diese E-Mail-Adresse wurde verwendet um ein Konto bei Simulanis Connect anzulegen."
   },
   {
     "id": "api.templates.verify_body.title",
@@ -1932,7 +1932,7 @@
   },
   {
     "id": "api.templates.welcome_body.info",
-    "translation": "Diese E-Mail-Adresse wurde verwendet, um ein Mattermost Konto zu erstellen."
+    "translation": "Diese E-Mail-Adresse wurde verwendet, um ein Simulanis Connect Konto zu erstellen."
   },
   {
     "id": "api.templates.welcome_body.title",
@@ -3188,7 +3188,7 @@
   },
   {
     "id": "ent.ldap.do_login.user_filtered.app_error",
-    "translation": "Dein AD/LDAP-Konto hat keine Berechtigung diesen Mattermost-Server zu benutzen. Bitte deinen Systemadministrator den AD/LDAP-Benutzerfilter zu überprüfen."
+    "translation": "Dein AD/LDAP-Konto hat keine Berechtigung diesen Simulanis Connect-Server zu benutzen. Bitte deinen Systemadministrator den AD/LDAP-Benutzerfilter zu überprüfen."
   },
   {
     "id": "ent.ldap.do_login.user_not_registered.app_error",
@@ -3208,7 +3208,7 @@
   },
   {
     "id": "ent.ldap.syncronize.search_failure.app_error",
-    "translation": "Fehler beim Suchen von Benutzern im AD/LDAP. Prüfe, ob sich der Mattermost-Server mit deinem AD/LDAP-Server verbinden kann und versuche es erneut."
+    "translation": "Fehler beim Suchen von Benutzern im AD/LDAP. Prüfe, ob sich der Simulanis Connect-Server mit deinem AD/LDAP-Server verbinden kann und versuche es erneut."
   },
   {
     "id": "ent.ldap.validate_filter.app_error",
@@ -3304,7 +3304,7 @@
   },
   {
     "id": "ent.migration.migratetosaml.username_already_used_by_other_user",
-    "translation": "Benutzername wird bereits von einem anderen Mattermost-Benutzer verwendet."
+    "translation": "Benutzername wird bereits von einem anderen Simulanis Connect-Benutzer verwendet."
   },
   {
     "id": "ent.saml.attribute.app_error",
@@ -3387,8 +3387,8 @@
     "translation": "Konnte die Kanäle nicht abrufen."
   },
   {
-    "id": "mattermost.bulletin.subject",
-    "translation": "Mattermost Security Mitteilung"
+    "id": "Simulanis Connect.bulletin.subject",
+    "translation": "Simulanis Connect Security Mitteilung"
   },
   {
     "id": "mfa.activate.bad_token.app_error",
@@ -4532,7 +4532,7 @@
   },
   {
     "id": "oauth.gitlab.tos.error",
-    "translation": "Die Nutzungsbedingungen von GitLab haben sich geändert. Bitte gehe zu {{.URL}} um sie zu akzeptieren und versuche dann, dich erneut an Mattermost anzumelden."
+    "translation": "Die Nutzungsbedingungen von GitLab haben sich geändert. Bitte gehe zu {{.URL}} um sie zu akzeptieren und versuche dann, dich erneut an Simulanis Connect anzumelden."
   },
   {
     "id": "plugin.api.update_user_status.bad_status",
@@ -4740,11 +4740,11 @@
   },
   {
     "id": "web.error.unsupported_browser.no_longer_support_version",
-    "translation": "Diese Version deines Browsers wird von Mattermost nicht mehr unterstützt"
+    "translation": "Diese Version deines Browsers wird von Simulanis Connect nicht mehr unterstützt"
   },
   {
     "id": "web.error.unsupported_browser.no_longer_support",
-    "translation": "Dieser Browser wird von Mattermost nicht mehr unterstützt"
+    "translation": "Dieser Browser wird von Simulanis Connect nicht mehr unterstützt"
   },
   {
     "id": "web.error.unsupported_browser.min_os_version.windows",
@@ -4788,7 +4788,7 @@
   },
   {
     "id": "web.error.unsupported_browser.download_app_or_upgrade_browser",
-    "translation": "Lade die Mattermost-App herunter oder verwende einen unterstützten Browser für ein besseres Benutzererlebnis."
+    "translation": "Lade die Simulanis Connect-App herunter oder verwende einen unterstützten Browser für ein besseres Benutzererlebnis."
   },
   {
     "id": "web.error.unsupported_browser.download",
@@ -4976,7 +4976,7 @@
   },
   {
     "id": "ent.ldap.syncronize.search_failure_size_exceeded.app_error",
-    "translation": "Das Größenlimit wurde überschritten. Versuche, deine Einstellung für die maximale Seitengröße zu erhöhen. Weitere Informationen findest du unter https://docs.mattermost.com/onboard/ad-ldap.html#i-see-the-log-error-ldap-result-code-4-size-limit-exceeded."
+    "translation": "Das Größenlimit wurde überschritten. Versuche, deine Einstellung für die maximale Seitengröße zu erhöhen. Weitere Informationen findest du unter https://docs.Simulanis Connect.com/onboard/ad-ldap.html#i-see-the-log-error-ldap-result-code-4-size-limit-exceeded."
   },
   {
     "id": "ent.id_loaded.license_disable.app_error",
@@ -5456,7 +5456,7 @@
   },
   {
     "id": "app.bot.get_disable_bot_sysadmin_message",
-    "translation": "{{if .disableBotsSetting}}{{if .printAllBots}}}{{.UserName}} wurde deaktiviert. Du verwaltetest die folgenden Bot-Konten, die nun deaktiviert wurden.\n\n{{.BotNames}}{{else}}{{.UserName}} wurde deaktiviert und verwaltete {{.NumBots}} Bot-Konten, die nun deaktiviert wurden, darunter die folgenden:\n\n{{.BotNames}}{{end}}Du kannst den Besitz jedes Bots übernehmen, indem du ihn unter **Integrationen > Bot-Konten** aktivierst und neue Token für den Bot erstellst.\n\nErfahre mehr in der [Dokumentation](https://docs.mattermost.com/developer/bot-accounts.html#what-happens-when-a-user-who-owns-bot-accounts-is-disabled).{{else}}{{if .printAllBots}}{{.UserName}} wurde deaktiviert. Du verwaltest die folgenden Bot-Konten, die noch aktiviert sind.\n\n{{.BotNames}}\n{{else}}{{.UserName}} wurde deaktiviert und verwaltete {{.NumBots}} Bot-Konten, die immer noch aktiviert sind, einschließlich der folgenden:\n\n{{.BotNames}}{{end}}Wir empfehlen dir dringend, die Eigentumsrechte an jedem Bot zu übernehmen, indem du ihn unter **Integrationen > Bot-Konten** wieder aktivierst und neue Token für den Bot erstellst.\n\nErfahre mehr in der [Dokumentation] (https://docs.mattermost.com/developer/bot-accounts.html#what-happens-when-a-user-who-owns-bot-accounts-is-disabled).\n\nWenn du möchtest, dass Bot-Konten nach der Benutzerdeaktivierung automatisch deaktiviert werden, setze \"Bot-Konten nach der Benutzerdeaktivierung deaktivieren\" in **Systemkonsole > Integrationen > Bot-Konten** auf wahr.{{end}}"
+    "translation": "{{if .disableBotsSetting}}{{if .printAllBots}}}{{.UserName}} wurde deaktiviert. Du verwaltetest die folgenden Bot-Konten, die nun deaktiviert wurden.\n\n{{.BotNames}}{{else}}{{.UserName}} wurde deaktiviert und verwaltete {{.NumBots}} Bot-Konten, die nun deaktiviert wurden, darunter die folgenden:\n\n{{.BotNames}}{{end}}Du kannst den Besitz jedes Bots übernehmen, indem du ihn unter **Integrationen > Bot-Konten** aktivierst und neue Token für den Bot erstellst.\n\nErfahre mehr in der [Dokumentation](https://docs.Simulanis Connect.com/developer/bot-accounts.html#what-happens-when-a-user-who-owns-bot-accounts-is-disabled).{{else}}{{if .printAllBots}}{{.UserName}} wurde deaktiviert. Du verwaltest die folgenden Bot-Konten, die noch aktiviert sind.\n\n{{.BotNames}}\n{{else}}{{.UserName}} wurde deaktiviert und verwaltete {{.NumBots}} Bot-Konten, die immer noch aktiviert sind, einschließlich der folgenden:\n\n{{.BotNames}}{{end}}Wir empfehlen dir dringend, die Eigentumsrechte an jedem Bot zu übernehmen, indem du ihn unter **Integrationen > Bot-Konten** wieder aktivierst und neue Token für den Bot erstellst.\n\nErfahre mehr in der [Dokumentation] (https://docs.Simulanis Connect.com/developer/bot-accounts.html#what-happens-when-a-user-who-owns-bot-accounts-is-disabled).\n\nWenn du möchtest, dass Bot-Konten nach der Benutzerdeaktivierung automatisch deaktiviert werden, setze \"Bot-Konten nach der Benutzerdeaktivierung deaktivieren\" in **Systemkonsole > Integrationen > Bot-Konten** auf wahr.{{end}}"
   },
   {
     "id": "app.bot.createbot.internal_error",
@@ -5548,7 +5548,7 @@
   },
   {
     "id": "api.templates.remove_expired_license.subject",
-    "translation": "Mattermost Enterprise Lizenz wurde deaktiviert."
+    "translation": "Simulanis Connect Enterprise Lizenz wurde deaktiviert."
   },
   {
     "id": "api.templates.remove_expired_license.body.title",
@@ -5772,7 +5772,7 @@
   },
   {
     "id": "api.bot.teams_channels.add_message_mobile",
-    "translation": "Bitte füge mich den Teams und Kanälen hinzu, mit denen ich interagieren soll. Um dies zu tun, verwende den Browser oder die Mattermost-Desktop-App."
+    "translation": "Bitte füge mich den Teams und Kanälen hinzu, mit denen ich interagieren soll. Um dies zu tun, verwende den Browser oder die Simulanis Connect-Desktop-App."
   },
   {
     "id": "app.reaction.save.save.app_error",
@@ -6852,7 +6852,7 @@
   },
   {
     "id": "api.command_remote.accept.help",
-    "translation": "Einladung von einer externen Mattermost-Instanz akzeptieren"
+    "translation": "Einladung von einer externen Simulanis Connect-Instanz akzeptieren"
   },
   {
     "id": "api.command_custom_status.name",
@@ -6916,7 +6916,7 @@
   },
   {
     "id": "api.command_share.invite_remote.help",
-    "translation": "Lädt eine externe Mattermost Instanz zum aktuellen geteilten Kanal ein"
+    "translation": "Lädt eine externe Simulanis Connect Instanz zum aktuellen geteilten Kanal ein"
   },
   {
     "id": "api.command_share.invitation_sent",
@@ -6936,7 +6936,7 @@
   },
   {
     "id": "api.command_share.desc",
-    "translation": "Teilt den aktuellen Kanal mit einer externen Mattermost Instanz."
+    "translation": "Teilt den aktuellen Kanal mit einer externen Simulanis Connect Instanz."
   },
   {
     "id": "api.command_share.could_not_uninvite.error",
@@ -7040,7 +7040,7 @@
   },
   {
     "id": "api.command_remote.invite_summary",
-    "translation": "Sende die folgende AES 256-bit verschlüsselte Einladung zu einem externen Mattermost Systemadmin zusammen mit dem Passwort. Diese werden den `{{.Command}}` Slash-Befehl verwenden um die Einladung zu akzeptieren.\n\n```\n{{.Invitation}}\n```\n\n**Sicherstellen, dass die sichere Verbindung deine Mattermost Instanz über {{.SiteURL}} erreicht. **"
+    "translation": "Sende die folgende AES 256-bit verschlüsselte Einladung zu einem externen Simulanis Connect Systemadmin zusammen mit dem Passwort. Diese werden den `{{.Command}}` Slash-Befehl verwenden um die Einladung zu akzeptieren.\n\n```\n{{.Invitation}}\n```\n\n**Sicherstellen, dass die sichere Verbindung deine Simulanis Connect Instanz über {{.SiteURL}} erreicht. **"
   },
   {
     "id": "api.command_remote.invite_password.help",
@@ -7132,11 +7132,11 @@
   },
   {
     "id": "api.license.request_trial_license.app_error",
-    "translation": "Konnte keine Test-Lizenz holen. Bitte nochmal versuchen oder support@mattermost.com kontaktieren."
+    "translation": "Konnte keine Test-Lizenz holen. Bitte nochmal versuchen oder support@Simulanis Connect.com kontaktieren."
   },
   {
     "id": "api.license.request-trial.can-start-trial.not-allowed",
-    "translation": "Neue Testlizenz konnte nicht angewendet werden. Du hast bereits eine Testlizenz auf diese Mattermost-Instanz angewendet... Wenn du deine Testphase verlängern willst, kontaktiere bitte [unser Vertriebsteam](https://mattermost.com/contact-us/)."
+    "translation": "Neue Testlizenz konnte nicht angewendet werden. Du hast bereits eine Testlizenz auf diese Simulanis Connect-Instanz angewendet... Wenn du deine Testphase verlängern willst, kontaktiere bitte [unser Vertriebsteam](https://Simulanis Connect.com/contact-us/)."
   },
   {
     "id": "api.license.request-trial.can-start-trial.error",
@@ -7144,7 +7144,7 @@
   },
   {
     "id": "api.license.request-trial.bad-request.terms-not-accepted",
-    "translation": "Du musst das Mattermost Software Evaluation Agreement und die Privacy Policy akzeptieren um eine Lizenz anzufragen."
+    "translation": "Du musst das Simulanis Connect Software Evaluation Agreement und die Privacy Policy akzeptieren um eine Lizenz anzufragen."
   },
   {
     "id": "api.job.unable_to_download_job.incorrect_job_type",
@@ -7219,7 +7219,7 @@
   },
   {
     "id": "api.email_batching.send_batched_email_notification.button",
-    "translation": "Mattermost öffnen"
+    "translation": "Simulanis Connect öffnen"
   },
   {
     "id": "api.custom_status.recent_custom_statuses.delete.app_error",
@@ -7351,7 +7351,7 @@
   },
   {
     "id": "api.command_remote.desc",
-    "translation": "Lade zu sicheren Verbindungen zur Kommunikation zwischen verschiedene Mattermost Instanzen ein."
+    "translation": "Lade zu sicheren Verbindungen zur Kommunikation zwischen verschiedene Simulanis Connect Instanzen ein."
   },
   {
     "id": "api.admin.saml.failure_reset_authdata_to_email.app_error",
@@ -7443,11 +7443,11 @@
   },
   {
     "id": "api.templates.license_up_for_renewal_title",
-    "translation": "Dein Mattermost Abonnement steht zur Erneuerung an"
+    "translation": "Dein Simulanis Connect Abonnement steht zur Erneuerung an"
   },
   {
     "id": "api.templates.license_up_for_renewal_subtitle",
-    "translation": "{{.UserName}}, dein Abonnement wird in {{.Days}} Tagen ablaufen. Wir hoffen, dass du die flexible und sichere Teamzusammenarbeit erlebst, die Mattermost ermöglicht. Erneuere bald, um sicherzustellen, dass dein Team diese Vorteile weiter genießen kann."
+    "translation": "{{.UserName}}, dein Abonnement wird in {{.Days}} Tagen ablaufen. Wir hoffen, dass du die flexible und sichere Teamzusammenarbeit erlebst, die Simulanis Connect ermöglicht. Erneuere bald, um sicherzustellen, dass dein Team diese Vorteile weiter genießen kann."
   },
   {
     "id": "api.templates.license_up_for_renewal_subject",
@@ -7459,7 +7459,7 @@
   },
   {
     "id": "api.templates.invite_body_footer.title",
-    "translation": "Was ist Mattermost?"
+    "translation": "Was ist Simulanis Connect?"
   },
   {
     "id": "api.templates.invite_body_footer.learn_more",
@@ -7467,11 +7467,11 @@
   },
   {
     "id": "api.templates.invite_body_footer.info",
-    "translation": "Mattermost ist eine flexible, Open Source basierte, Plattform zum Austausch von Nachrichten, die sichere Zusammenarbeit in Teams erlaubt."
+    "translation": "Simulanis Connect ist eine flexible, Open Source basierte, Plattform zum Austausch von Nachrichten, die sichere Zusammenarbeit in Teams erlaubt."
   },
   {
     "id": "api.templates.invite_body.subTitle",
-    "translation": "Starte die Zusammenarbeit mit deinem Team auf Mattermost"
+    "translation": "Starte die Zusammenarbeit mit deinem Team auf Simulanis Connect"
   },
   {
     "id": "api.templates.email_us_anytime_at",
@@ -7479,7 +7479,7 @@
   },
   {
     "id": "api.templates.email_footer_v2",
-    "translation": "© 2022 Mattermost, Inc. 530 Lytton Avenue, Second floor, Palo Alto, CA, 94301"
+    "translation": "© 2022 Simulanis Connect, Inc. 530 Lytton Avenue, Second floor, Palo Alto, CA, 94301"
   },
   {
     "id": "api.templates.cloud_welcome_email.title",
@@ -7531,11 +7531,11 @@
   },
   {
     "id": "api.templates.cloud_welcome_email.download_mm_info",
-    "translation": "Die Mattermost App runterladen"
+    "translation": "Die Simulanis Connect App runterladen"
   },
   {
     "id": "api.templates.cloud_welcome_email.button",
-    "translation": "Mattermost öffnen"
+    "translation": "Simulanis Connect öffnen"
   },
   {
     "id": "api.templates.cloud_welcome_email.app_market_place",
@@ -7631,43 +7631,43 @@
   },
   {
     "id": "api.upgrade_to_enterprise_status.signature.app_error",
-    "translation": "Mattermost konnte nicht auf die Enterprise Edition aktualisiert werden. Die digitale Signatur für die heruntergeladene binäre Datei konnte nicht überprüft werden."
+    "translation": "Simulanis Connect konnte nicht auf die Enterprise Edition aktualisiert werden. Die digitale Signatur für die heruntergeladene binäre Datei konnte nicht überprüft werden."
   },
   {
     "id": "api.upgrade_to_enterprise_status.app_error",
-    "translation": "Mattermost konnte nicht auf die Enterprise Edition aktualisiert werden."
+    "translation": "Simulanis Connect konnte nicht auf die Enterprise Edition aktualisiert werden."
   },
   {
     "id": "api.upgrade_to_enterprise.system_not_supported.app_error",
-    "translation": "Mattermost konnte nicht auf die Enterprise Edition aktualisiert werden. Diese Funktion wird nur auf Linux Systemen mit x86-64 Architektur laufen."
+    "translation": "Simulanis Connect konnte nicht auf die Enterprise Edition aktualisiert werden. Diese Funktion wird nur auf Linux Systemen mit x86-64 Architektur laufen."
   },
   {
     "id": "api.upgrade_to_enterprise.invalid-user.app_error",
-    "translation": "Mattermost konnte nicht auf die Enterprise Edition aktualisiert werden. Der Mattermost Systembenutzer {{.MattermostUsername}} hat keinen Schreibzugriff auf die notwendigen binären Dateien. Ein System Administrator kann die Dateiberechtigungen auf dem Server auf dem Mattermost installiert ist, aktualisieren;\n\n```\nchown {{.MattermostUsername}} \"{{.Path}}\"\n```\n\nNach dem Ändern der Dateiberechtigungen, versuche erneut Mattermost zu aktualisieren. Wenn du aktualisierst und neu gestartet hast, vergiss nicht die ursprünglichen Berechtigung auf der binären Datei wieder herzustellen:\n\n```\nchown {{.FileUsername}} \"{{.Path}}\"\n```"
+    "translation": "Simulanis Connect konnte nicht auf die Enterprise Edition aktualisiert werden. Der Simulanis Connect Systembenutzer {{.Simulanis ConnectUsername}} hat keinen Schreibzugriff auf die notwendigen binären Dateien. Ein System Administrator kann die Dateiberechtigungen auf dem Server auf dem Simulanis Connect installiert ist, aktualisieren;\n\n```\nchown {{.Simulanis ConnectUsername}} \"{{.Path}}\"\n```\n\nNach dem Ändern der Dateiberechtigungen, versuche erneut Simulanis Connect zu aktualisieren. Wenn du aktualisierst und neu gestartet hast, vergiss nicht die ursprünglichen Berechtigung auf der binären Datei wieder herzustellen:\n\n```\nchown {{.FileUsername}} \"{{.Path}}\"\n```"
   },
   {
     "id": "api.upgrade_to_enterprise.invalid-user-and-permission.app_error",
-    "translation": "Mattermost konnte nicht auf die Enterprise Edition aktualisiert werden. Der Mattermost Systembenutzer {{.MattermostUsername}} hat keinen Schreibzugriff auf die notwendigen binären Dateien. Ein System Administrator kann die Dateiberechtigungen auf dem Server auf dem Mattermost installiert ist, aktualisieren;\n\n```\nchown {{.MattermostUsername}} \"{{.Path}}\"\nchmod +w \"{{.Path}}\"\n```\n\nNach dem Ändern des Dateiberechtigungen, versuche erneut Mattermost zu aktualisieren. Wenn du aktualisierst und neu gestartet hast, vergiss nicht die ursprünglichen Berechtigung auf der binären Datei wieder herzustellen:\n\n```\nchown {{.FileUsername}} \"{{.Path}}\"\nchmod -w \"{{.Path}}\"\n```"
+    "translation": "Simulanis Connect konnte nicht auf die Enterprise Edition aktualisiert werden. Der Simulanis Connect Systembenutzer {{.Simulanis ConnectUsername}} hat keinen Schreibzugriff auf die notwendigen binären Dateien. Ein System Administrator kann die Dateiberechtigungen auf dem Server auf dem Simulanis Connect installiert ist, aktualisieren;\n\n```\nchown {{.Simulanis ConnectUsername}} \"{{.Path}}\"\nchmod +w \"{{.Path}}\"\n```\n\nNach dem Ändern des Dateiberechtigungen, versuche erneut Simulanis Connect zu aktualisieren. Wenn du aktualisierst und neu gestartet hast, vergiss nicht die ursprünglichen Berechtigung auf der binären Datei wieder herzustellen:\n\n```\nchown {{.FileUsername}} \"{{.Path}}\"\nchmod -w \"{{.Path}}\"\n```"
   },
   {
     "id": "api.upgrade_to_enterprise.invalid-permission.app_error",
-    "translation": "Mattermost konnte nicht auf die Enterprise Edition aktualisiert werden. Der Mattermost Systembenutzer {{.MattermostUsername}} hat keinen Schreibzugriff auf die notwendigen binären Dateien. Ein System Administrator kann die Dateiberechtigungen auf dem Server auf dem Mattermost installiert ist, aktualisieren;\n\n```\nchmod +w \"{{.Path}}\"\n```\n\nNach dem Ändern des Dateiberechtigungen, versuche erneut Mattermost zu aktualisieren. Wenn du aktualisierst und neu gestartet hast, vergiss nicht die ursprünglichen Berechtigung auf der binären Datei wieder herzustellen:\n\n```\nchmod -w \"{{.Path}}\"\n```"
+    "translation": "Simulanis Connect konnte nicht auf die Enterprise Edition aktualisiert werden. Der Simulanis Connect Systembenutzer {{.Simulanis ConnectUsername}} hat keinen Schreibzugriff auf die notwendigen binären Dateien. Ein System Administrator kann die Dateiberechtigungen auf dem Server auf dem Simulanis Connect installiert ist, aktualisieren;\n\n```\nchmod +w \"{{.Path}}\"\n```\n\nNach dem Ändern des Dateiberechtigungen, versuche erneut Simulanis Connect zu aktualisieren. Wenn du aktualisierst und neu gestartet hast, vergiss nicht die ursprünglichen Berechtigung auf der binären Datei wieder herzustellen:\n\n```\nchmod -w \"{{.Path}}\"\n```"
   },
   {
     "id": "api.upgrade_to_enterprise.generic_error.app_error",
-    "translation": "Mattermost konnte nicht auf die Enterprise Edition aktualisiert werden."
+    "translation": "Simulanis Connect konnte nicht auf die Enterprise Edition aktualisiert werden."
   },
   {
     "id": "api.upgrade_to_enterprise.app_error",
-    "translation": "Eine Aktualisierung auf die Mattermost Enterprise Edition läuft schon."
+    "translation": "Eine Aktualisierung auf die Simulanis Connect Enterprise Edition läuft schon."
   },
   {
     "id": "api.upgrade_to_enterprise.already-enterprise.app_error",
-    "translation": "Du kannst nicht Aktualisieren, da du schon die Mattermost Enterprise Edition ausführst."
+    "translation": "Du kannst nicht Aktualisieren, da du schon die Simulanis Connect Enterprise Edition ausführst."
   },
   {
     "id": "api.upgrade_to_enterprise.already-done.app_error",
-    "translation": "Du hast schon auf die Mattermost Enterprise Edition aktualisiert. Bitte starte den Server neu um die Aktualisierung abzuschließen."
+    "translation": "Du hast schon auf die Simulanis Connect Enterprise Edition aktualisiert. Bitte starte den Server neu um die Aktualisierung abzuschließen."
   },
   {
     "id": "app.command.tryexecutecustomcommand.internal_error",
@@ -7915,7 +7915,7 @@
   },
   {
     "id": "app.notification.footer.infoLogin",
-    "translation": "Anmelden bei Mattermost"
+    "translation": "Anmelden bei Simulanis Connect"
   },
   {
     "id": "app.notification.footer.info",
@@ -8606,8 +8606,8 @@
     "translation": "Die vorgepackte Plugin-Version konnte nicht geparst werden."
   },
   {
-    "id": "model.oauth.is_valid.mattermost_app_id.app_error",
-    "translation": "Die maximale Länge der MattermostAppID ist 32 Zeichen."
+    "id": "model.oauth.is_valid.Simulanis Connect_app_id.app_error",
+    "translation": "Die maximale Länge der Simulanis ConnectAppID ist 32 Zeichen."
   },
   {
     "id": "model.config.is_valid.elastic_search.bulk_indexing_batch_size.app_error",
@@ -8635,7 +8635,7 @@
   },
   {
     "id": "api.license.request_trial_license.embargoed",
-    "translation": "Wir konnten die Anfrage aufgrund von Einschränkungen für Embargoländer nicht verarbeiten. [Lerne mehr in unserer Dokumentation](https://mattermost.com/pl/limitations-for-embargoed-countries), oder kontaktiere legal@mattermost.com für Fragen rund um Exportbeschränkungen."
+    "translation": "Wir konnten die Anfrage aufgrund von Einschränkungen für Embargoländer nicht verarbeiten. [Lerne mehr in unserer Dokumentation](https://Simulanis Connect.com/pl/limitations-for-embargoed-countries), oder kontaktiere legal@Simulanis Connect.com für Fragen rund um Exportbeschränkungen."
   },
   {
     "id": "model.member.is_valid.emails.app_error",
@@ -8679,7 +8679,7 @@
   },
   {
     "id": "api.file.cloud_upload.app_error",
-    "translation": "Hochladen über mmctl zu einer Cloud Instanz wird nicht unterstützt. Bitte prüfe die Dokumentation: https://docs.mattermost.com/manage/cloud-data-export.html."
+    "translation": "Hochladen über mmctl zu einer Cloud Instanz wird nicht unterstützt. Bitte prüfe die Dokumentation: https://docs.Simulanis Connect.com/manage/cloud-data-export.html."
   },
   {
     "id": "app.teams.analytics_teams_count.app_error",
@@ -8751,7 +8751,7 @@
   },
   {
     "id": "api.command_help.success",
-    "translation": "Mattermost ist eine Open Source Plattform für sicher Kommunikation, Zusammenarbeit und Koordination von Aufgaben über Werkzeuge und Teams hinweg.\nMattermost besteht aus zwei Hauptwerkzeugen:\n\n**Channels** - Bleibe mit deinem Team in Verbindung mit 1:1- und Gruppen-Nachrichten.\n**[Playbooks](/playbooks)** - Erstelle und konfiguriere wiederholbare Prozesse um spezifische und vorhersagbare Ergebnisse zu bekommen.\n\n[Zeige Dokumentation und Anleitungen]({{.HelpLink}})"
+    "translation": "Simulanis Connect ist eine Open Source Plattform für sicher Kommunikation, Zusammenarbeit und Koordination von Aufgaben über Werkzeuge und Teams hinweg.\nSimulanis Connect besteht aus zwei Hauptwerkzeugen:\n\n**Channels** - Bleibe mit deinem Team in Verbindung mit 1:1- und Gruppen-Nachrichten.\n**[Playbooks](/playbooks)** - Erstelle und konfiguriere wiederholbare Prozesse um spezifische und vorhersagbare Ergebnisse zu bekommen.\n\n[Zeige Dokumentation und Anleitungen]({{.HelpLink}})"
   },
   {
     "id": "app.notify_admin.send_notification_post.app_error",
@@ -8979,7 +8979,7 @@
   },
   {
     "id": "api.server.cws.needs_enterprise_edition",
-    "translation": "Dienst nur in der Mattermost Enterprise Edition verfügbar"
+    "translation": "Dienst nur in der Simulanis Connect Enterprise Edition verfügbar"
   },
   {
     "id": "api.system.logs.invalidFilter",
@@ -9751,7 +9751,7 @@
   },
   {
     "id": "api.server.cws.disabled",
-    "translation": "Die Interaktionen mit dem Mattermost-Kundenportal wurden vom Systemadministrator deaktiviert."
+    "translation": "Die Interaktionen mit dem Simulanis Connect-Kundenportal wurden vom Systemadministrator deaktiviert."
   },
   {
     "id": "api.channel.bookmark.channel_bookmark.license.error",
@@ -9899,11 +9899,11 @@
   },
   {
     "id": "api.config.update.elasticsearch.autocomplete_cannot_be_enabled_error",
-    "translation": "Die automatische Vervollständigung von Kanälen kann nicht aktiviert werden, da das Schema des Kanal-Index veraltet ist. Es wird empfohlen, den Kanal-Index neu zu erstellen. Weitere Informationen findest du im Mattermost Changelog"
+    "translation": "Die automatische Vervollständigung von Kanälen kann nicht aktiviert werden, da das Schema des Kanal-Index veraltet ist. Es wird empfohlen, den Kanal-Index neu zu erstellen. Weitere Informationen findest du im Simulanis Connect Changelog"
   },
   {
     "id": "app.channel.elasticsearch_channel_index.notify_admin.message",
-    "translation": "Dein Elasticsearch-Kanal-Indexschema ist veraltet. Es wird empfohlen, deinen Kanal-Index neu zu erstellen.\nKlicke auf die Schaltfläche \"Kanal Index neu erstellen\" im [Elasticsearch-Abschnitt in der Systemkonsole] ({{.ElasticsearchSection}}), um das Problem zu beheben.\nWeitere Informationen findest du im Mattermost Changelog."
+    "translation": "Dein Elasticsearch-Kanal-Indexschema ist veraltet. Es wird empfohlen, deinen Kanal-Index neu zu erstellen.\nKlicke auf die Schaltfläche \"Kanal Index neu erstellen\" im [Elasticsearch-Abschnitt in der Systemkonsole] ({{.ElasticsearchSection}}), um das Problem zu beheben.\nWeitere Informationen findest du im Simulanis Connect Changelog."
   },
   {
     "id": "bleveengine.purge_list.not_implemented",

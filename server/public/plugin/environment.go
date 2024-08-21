@@ -274,7 +274,7 @@ func checkMinServerVersion(pluginInfo *model.BundleInfo) error {
 		return fmt.Errorf("%v: %v", err.Error(), pluginInfo.Manifest.Id)
 	}
 	if !fulfilled {
-		return fmt.Errorf("plugin requires Mattermost %v: %v", pluginInfo.Manifest.MinServerVersion, pluginInfo.Manifest.Id)
+		return fmt.Errorf("plugin requires Simulanis %v: %v", pluginInfo.Manifest.MinServerVersion, pluginInfo.Manifest.Id)
 	}
 
 	return nil

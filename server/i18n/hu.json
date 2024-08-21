@@ -496,8 +496,8 @@
     "translation": "Nem sikerült frissíteni az MFA aktív állapotot a felhasználónak."
   },
   {
-    "id": "mattermost.bulletin.subject",
-    "translation": "Mattermost biztonsági értesítő"
+    "id": "Simulanis Connect.bulletin.subject",
+    "translation": "Simulanis Connect biztonsági értesítő"
   },
   {
     "id": "manaultesting.test_autolink.unable.app_error",
@@ -633,7 +633,7 @@
   },
   {
     "id": "ent.migration.migratetosaml.username_already_used_by_other_user",
-    "translation": "Ez a felhasználónév már használatban van egy másik Mattermost felhasználó által."
+    "translation": "Ez a felhasználónév már használatban van egy másik Simulanis Connect felhasználó által."
   },
   {
     "id": "ent.migration.migratetosaml.user_not_found_in_users_mapping_file",
@@ -761,11 +761,11 @@
   },
   {
     "id": "ent.ldap.syncronize.search_failure_size_exceeded.app_error",
-    "translation": "Méret korlát túllépve. Próbálja meg ellenőrizni a [maximális oldalméretet](https://docs.mattermost.com/deployment/sso-ldap.html#i-see-the-log-error-ldap-result-code-4-size-limit-exceeded)."
+    "translation": "Méret korlát túllépve. Próbálja meg ellenőrizni a [maximális oldalméretet](https://docs.Simulanis Connect.com/deployment/sso-ldap.html#i-see-the-log-error-ldap-result-code-4-size-limit-exceeded)."
   },
   {
     "id": "ent.ldap.syncronize.search_failure.app_error",
-    "translation": "Nem sikerült a felhasználók keresése az AD/LDAP-ban. Ellenőrizze, hogy a Mattermost szerver képes-e csatlakozni az AD/LDAP szerverhez, és próbálja újra."
+    "translation": "Nem sikerült a felhasználók keresése az AD/LDAP-ban. Ellenőrizze, hogy a Simulanis Connect szerver képes-e csatlakozni az AD/LDAP szerverhez, és próbálja újra."
   },
   {
     "id": "ent.ldap.syncronize.populate_syncables",
@@ -801,7 +801,7 @@
   },
   {
     "id": "ent.ldap.do_login.user_filtered.app_error",
-    "translation": "Az Ön AD/LDAP fiókjának nincs jogosultsága, hogy használja ezt a Mattermost szervert. Kérje meg a rendszergazdát, hogy ellenőrizze az AD/LDAP felhasználói szűrőt."
+    "translation": "Az Ön AD/LDAP fiókjának nincs jogosultsága, hogy használja ezt a Simulanis Connect szervert. Kérje meg a rendszergazdát, hogy ellenőrizze az AD/LDAP felhasználói szűrőt."
   },
   {
     "id": "ent.ldap.do_login.unable_to_connect.app_error",
@@ -2881,11 +2881,11 @@
   },
   {
     "id": "web.error.unsupported_browser.no_longer_support_version",
-    "translation": "A Mattermost már nem támogatja a böngésző ezen verzióját"
+    "translation": "A Simulanis Connect már nem támogatja a böngésző ezen verzióját"
   },
   {
     "id": "web.error.unsupported_browser.no_longer_support",
-    "translation": "Ezt a böngészőt a Mattermost már nem támogatja"
+    "translation": "Ezt a böngészőt a Simulanis Connect már nem támogatja"
   },
   {
     "id": "web.error.unsupported_browser.min_os_version.windows",
@@ -2929,7 +2929,7 @@
   },
   {
     "id": "web.error.unsupported_browser.download_app_or_upgrade_browser",
-    "translation": "Töltse le a Mattermost alkalmazást, vagy használjon támogatott böngészőt a jobb élmény érdekében."
+    "translation": "Töltse le a Simulanis Connect alkalmazást, vagy használjon támogatott böngészőt a jobb élmény érdekében."
   },
   {
     "id": "web.error.unsupported_browser.download",
@@ -3077,7 +3077,7 @@
   },
   {
     "id": "oauth.gitlab.tos.error",
-    "translation": "A GitLab Általános Szerződési Feltételei frissültek. Kérjük, látogassa meg a {{.URL}} webhelyet, hogy elfogadja őket, majd próbáljon meg újra bejelentkezni a Mattermost-ba."
+    "translation": "A GitLab Általános Szerződési Feltételei frissültek. Kérjük, látogassa meg a {{.URL}} webhelyet, hogy elfogadja őket, majd próbáljon meg újra bejelentkezni a Simulanis Connect-ba."
   },
   {
     "id": "model.websocket_client.connect_fail.app_error",
@@ -4901,43 +4901,43 @@
   },
   {
     "id": "api.upgrade_to_enterprise_status.signature.app_error",
-    "translation": "A Mattermost nem tudott frissíteni az Enterprise Edition-re. A letöltött bináris fájl digitális aláírását nem sikerült ellenőrizni."
+    "translation": "A Simulanis Connect nem tudott frissíteni az Enterprise Edition-re. A letöltött bináris fájl digitális aláírását nem sikerült ellenőrizni."
   },
   {
     "id": "api.upgrade_to_enterprise_status.app_error",
-    "translation": "A Mattermost nem tudott frissíteni az Enterprise Edition-re."
+    "translation": "A Simulanis Connect nem tudott frissíteni az Enterprise Edition-re."
   },
   {
     "id": "api.upgrade_to_enterprise.system_not_supported.app_error",
-    "translation": "A Mattermost nem tudott frissíteni az Enterprise Edition-re. Ez a szolgáltatás csak x86-64 architektúrájú Linux rendszereken működik."
+    "translation": "A Simulanis Connect nem tudott frissíteni az Enterprise Edition-re. Ez a szolgáltatás csak x86-64 architektúrájú Linux rendszereken működik."
   },
   {
     "id": "api.upgrade_to_enterprise.invalid-user.app_error",
-    "translation": "A Mattermost nem tudott frissíteni az Enterprise Kuadásra. A {{.MattermostUsername}} Mattermost rendszer felhasználó nem rendelkezik írási engedéllyel a szükséges bináris fájlhoz. A rendszergazda frissítheti a fájl engedélyeket a következő parancs végrehajtásával azon a kiszolgálón, amelyre a Mattermost telepítve van:\n\n```\nchown {{.MattermostUsername}} \"{{.Path}}\"\n```\n\nA fájl engedélyek megváltoztatása után próbálkozzon újra a Mattermost frissítésével. Ha frissített és újraindított, ne felejtse el visszaállítani az eredeti fájl engedélyeket:\n\n```\nchown {{.FileUsername}} \"{{.Path}}\"\n```"
+    "translation": "A Simulanis Connect nem tudott frissíteni az Enterprise Kuadásra. A {{.Simulanis ConnectUsername}} Simulanis Connect rendszer felhasználó nem rendelkezik írási engedéllyel a szükséges bináris fájlhoz. A rendszergazda frissítheti a fájl engedélyeket a következő parancs végrehajtásával azon a kiszolgálón, amelyre a Simulanis Connect telepítve van:\n\n```\nchown {{.Simulanis ConnectUsername}} \"{{.Path}}\"\n```\n\nA fájl engedélyek megváltoztatása után próbálkozzon újra a Simulanis Connect frissítésével. Ha frissített és újraindított, ne felejtse el visszaállítani az eredeti fájl engedélyeket:\n\n```\nchown {{.FileUsername}} \"{{.Path}}\"\n```"
   },
   {
     "id": "api.upgrade_to_enterprise.invalid-user-and-permission.app_error",
-    "translation": "A Mattermost nem tudott frissíteni az Enterprise Kiadásra. A {{.MattermostUsername}} Mattermost rendszer felhasználó nem rendelkezik írási engedéllyel a szükséges bináris fájlhoz. A rendszergazda frissítheti a fájl engedélyeket a következő parancs végrehajtásával azon a kiszolgálón, amelyre a Mattermost telepítve van:\n\n```\nchown {{.MattermostUsername}} \"{{.Path}}\"\nchmod +w \"{{.Path}}\"\n```\n\nA fájl engedélyek megváltoztatása után próbálkozzon újra a Mattermost frissítésével. Ha frissített és újraindított, ne felejtse el visszaállítani az eredeti fájl engedélyeket:\n\n```\nchown {{.FileUsername}} \"{{.Path}}\"\nchmod -w \"{{.Path}}\"\n```"
+    "translation": "A Simulanis Connect nem tudott frissíteni az Enterprise Kiadásra. A {{.Simulanis ConnectUsername}} Simulanis Connect rendszer felhasználó nem rendelkezik írási engedéllyel a szükséges bináris fájlhoz. A rendszergazda frissítheti a fájl engedélyeket a következő parancs végrehajtásával azon a kiszolgálón, amelyre a Simulanis Connect telepítve van:\n\n```\nchown {{.Simulanis ConnectUsername}} \"{{.Path}}\"\nchmod +w \"{{.Path}}\"\n```\n\nA fájl engedélyek megváltoztatása után próbálkozzon újra a Simulanis Connect frissítésével. Ha frissített és újraindított, ne felejtse el visszaállítani az eredeti fájl engedélyeket:\n\n```\nchown {{.FileUsername}} \"{{.Path}}\"\nchmod -w \"{{.Path}}\"\n```"
   },
   {
     "id": "api.upgrade_to_enterprise.invalid-permission.app_error",
-    "translation": "A Mattermost nem tudott frissíteni az Enterprise Kiadásra. A {{.MattermostUsername}} Mattermost rendszer felhasználó nem rendelkezik írási jogosultsággal a szükséges bináris fájlhoz. A rendszergazda frissítheti a fájl engedélyeket a következő parancs végrehajtásával azon a szerveren, amelyre a Mattermost telepítve van:\n\n```\nchmod +w \"{{.Path}}\"\n```\n\nA fájl engedélyek megváltoztatása után próbálkozzon újra a Mattermost frissítésével. Ha frissített és újraindított, ne felejtse el visszaállítani az eredeti fájl engedélyeket:\n\n```\nchmod -w \"{{.Path}}\"\n```"
+    "translation": "A Simulanis Connect nem tudott frissíteni az Enterprise Kiadásra. A {{.Simulanis ConnectUsername}} Simulanis Connect rendszer felhasználó nem rendelkezik írási jogosultsággal a szükséges bináris fájlhoz. A rendszergazda frissítheti a fájl engedélyeket a következő parancs végrehajtásával azon a szerveren, amelyre a Simulanis Connect telepítve van:\n\n```\nchmod +w \"{{.Path}}\"\n```\n\nA fájl engedélyek megváltoztatása után próbálkozzon újra a Simulanis Connect frissítésével. Ha frissített és újraindított, ne felejtse el visszaállítani az eredeti fájl engedélyeket:\n\n```\nchmod -w \"{{.Path}}\"\n```"
   },
   {
     "id": "api.upgrade_to_enterprise.generic_error.app_error",
-    "translation": "A Mattermost nem tudott frissíteni az Enterprise Edition-re."
+    "translation": "A Simulanis Connect nem tudott frissíteni az Enterprise Edition-re."
   },
   {
     "id": "api.upgrade_to_enterprise.app_error",
-    "translation": "A Mattermost Enterprise Edition frissítése már fut."
+    "translation": "A Simulanis Connect Enterprise Edition frissítése már fut."
   },
   {
     "id": "api.upgrade_to_enterprise.already-enterprise.app_error",
-    "translation": "Nem frissíthet, mert már a Mattermost Enterprise Edition -t használja."
+    "translation": "Nem frissíthet, mert már a Simulanis Connect Enterprise Edition -t használja."
   },
   {
     "id": "api.upgrade_to_enterprise.already-done.app_error",
-    "translation": "Sikeresen frissített a Mattermost Enterprise Edition-re. Kérjük, indítsa újra a szervert a frissítés befejezéséhez."
+    "translation": "Sikeresen frissített a Simulanis Connect Enterprise Edition-re. Kérjük, indítsa újra a szervert a frissítés befejezéséhez."
   },
   {
     "id": "api.unable_to_read_file_from_backend",
@@ -4973,7 +4973,7 @@
   },
   {
     "id": "api.templates.welcome_body.info",
-    "translation": "Ezt az e-mail címet használták Mattermost fiók létrehozásához."
+    "translation": "Ezt az e-mail címet használták Simulanis Connect fiók létrehozásához."
   },
   {
     "id": "api.templates.welcome_body.button",
@@ -5017,7 +5017,7 @@
   },
   {
     "id": "api.templates.verify_body.info",
-    "translation": "Ez az e-mail cím volt használva a Mattermost fiók létrehozásakor."
+    "translation": "Ez az e-mail cím volt használva a Simulanis Connect fiók létrehozásakor."
   },
   {
     "id": "api.templates.verify_body.button",
@@ -5305,7 +5305,7 @@
   },
   {
     "id": "api.templates.remove_expired_license.subject",
-    "translation": "A Mattermost Enterprise licensz le van tiltva."
+    "translation": "A Simulanis Connect Enterprise licensz le van tiltva."
   },
   {
     "id": "api.templates.remove_expired_license.body.title",
@@ -5321,7 +5321,7 @@
   },
   {
     "id": "api.templates.post_body.button",
-    "translation": "Válasz a Mattermostban"
+    "translation": "Válasz a Simulanis Connectban"
   },
   {
     "id": "api.templates.password_change_subject",
@@ -5369,7 +5369,7 @@
   },
   {
     "id": "api.templates.invite_body_footer.title",
-    "translation": "Mi az a Mattermost?"
+    "translation": "Mi az a Simulanis Connect?"
   },
   {
     "id": "api.templates.invite_body_footer.learn_more",
@@ -5377,7 +5377,7 @@
   },
   {
     "id": "api.templates.invite_body_footer.info",
-    "translation": "A Mattermost egy rugalmas, nyílt forráskódú üzenetküldő platform, amely biztonságos csapat együttműködést tesz lehetővé."
+    "translation": "A Simulanis Connect egy rugalmas, nyílt forráskódú üzenetküldő platform, amely biztonságos csapat együttműködést tesz lehetővé."
   },
   {
     "id": "api.templates.invite_body.title",
@@ -5385,7 +5385,7 @@
   },
   {
     "id": "api.templates.invite_body.subTitle",
-    "translation": "Kezdjen el együttműködni a csapatával a Mattermost-on"
+    "translation": "Kezdjen el együttműködni a csapatával a Simulanis Connect-on"
   },
   {
     "id": "api.templates.invite_body.button",
@@ -5417,7 +5417,7 @@
   },
   {
     "id": "api.templates.email_footer_v2",
-    "translation": "© 2022 Mattermost, Inc. 530 Lytton Avenue, Second floor, Palo Alto, CA, 94301"
+    "translation": "© 2022 Simulanis Connect, Inc. 530 Lytton Avenue, Second floor, Palo Alto, CA, 94301"
   },
   {
     "id": "api.templates.email_footer",
@@ -5477,11 +5477,11 @@
   },
   {
     "id": "api.templates.cloud_welcome_email.download_mm_info",
-    "translation": "Mattermost alkalmazás letöltése"
+    "translation": "Simulanis Connect alkalmazás letöltése"
   },
   {
     "id": "api.templates.cloud_welcome_email.button",
-    "translation": "Mattermost megnyitása"
+    "translation": "Simulanis Connect megnyitása"
   },
   {
     "id": "api.templates.cloud_welcome_email.app_market_place",
@@ -5777,7 +5777,7 @@
   },
   {
     "id": "api.slackimport.slack_import.log",
-    "translation": "Mattermost Slack Importálás napló\n"
+    "translation": "Simulanis Connect Slack Importálás napló\n"
   },
   {
     "id": "api.slackimport.slack_add_users.unable_import",
@@ -5789,11 +5789,11 @@
   },
   {
     "id": "api.slackimport.slack_add_users.merge_existing_failed",
-    "translation": "Slack felhasználó összevonva egy létező Mattermost felhasználóval egyező e-mail címmel {{.Email}} és felhasználónévvel {{.Username}}, de nem sikerült hozzáadni a csapatukhoz.\n"
+    "translation": "Slack felhasználó összevonva egy létező Simulanis Connect felhasználóval egyező e-mail címmel {{.Email}} és felhasználónévvel {{.Username}}, de nem sikerült hozzáadni a csapatukhoz.\n"
   },
   {
     "id": "api.slackimport.slack_add_users.merge_existing",
-    "translation": "Slack felhasználó összevonva egy létező Mattermost felhasználóval egyező e-mail címmel {{.Email}} és felhasználónévvel {{.Username}}.\n"
+    "translation": "Slack felhasználó összevonva egy létező Simulanis Connect felhasználóval egyező e-mail címmel {{.Email}} és felhasználónévvel {{.Username}}.\n"
   },
   {
     "id": "api.slackimport.slack_add_users.email_pwd",
@@ -5805,7 +5805,7 @@
   },
   {
     "id": "api.slackimport.slack_add_channels.merge",
-    "translation": "A {{.DisplayName}} Slack csatorna már létezik aktív Mattermost csatornaként. Mindkét csatorna összevonva.\n"
+    "translation": "A {{.DisplayName}} Slack csatorna már létezik aktív Simulanis Connect csatornaként. Mindkét csatorna összevonva.\n"
   },
   {
     "id": "api.slackimport.slack_add_channels.import_failed",
@@ -6436,7 +6436,7 @@
   },
   {
     "id": "api.command_share.invite_remote.help",
-    "translation": "Meghív egy külső Mattermost példányt az aktuális megosztott csatornára"
+    "translation": "Meghív egy külső Simulanis Connect példányt az aktuális megosztott csatornára"
   },
   {
     "id": "api.command_share.invitation_sent",
@@ -6500,7 +6500,7 @@
   },
   {
     "id": "api.command_share.desc",
-    "translation": "Megosztja az aktuális csatornát egy külső Mattermost példánnyal."
+    "translation": "Megosztja az aktuális csatornát egy külső Simulanis Connect példánnyal."
   },
   {
     "id": "api.command_share.could_not_uninvite.error",
@@ -6672,7 +6672,7 @@
   },
   {
     "id": "api.command_remote.invite_summary",
-    "translation": "Küldje el a következő AES 256 bites titkosított meghívót a külső Mattermost rendszer rendszergazdának a jelszóval együtt. A meghívás elfogadásához a `{{.Command}}` perjel parancsot fogják használni.\n\n```\n{{.Invitation}}\n```\n\n**Győződjön meg róla, hogy a biztonságos kapcsolat a** {{.SiteURL}} **cím segítségével érheti el az Ön Mattermost példányát.**"
+    "translation": "Küldje el a következő AES 256 bites titkosított meghívót a külső Simulanis Connect rendszer rendszergazdának a jelszóval együtt. A meghívás elfogadásához a `{{.Command}}` perjel parancsot fogják használni.\n\n```\n{{.Invitation}}\n```\n\n**Győződjön meg róla, hogy a biztonságos kapcsolat a** {{.SiteURL}} **cím segítségével érheti el az Ön Simulanis Connect példányát.**"
   },
   {
     "id": "api.command_remote.invite_password.hint",
@@ -6720,7 +6720,7 @@
   },
   {
     "id": "api.command_remote.desc",
-    "translation": "Hívjon meg biztonságos kapcsolatokat a Mattermost példányok közötti kommunikációhoz."
+    "translation": "Hívjon meg biztonságos kapcsolatokat a Simulanis Connect példányok közötti kommunikációhoz."
   },
   {
     "id": "api.command_remote.decode_invitation.error",
@@ -6912,7 +6912,7 @@
   },
   {
     "id": "api.command.invite_people.desc",
-    "translation": "Küldjön egy e-mail meghívót az Ön Mattermost csapatának"
+    "translation": "Küldjön egy e-mail meghívót az Ön Simulanis Connect csapatának"
   },
   {
     "id": "api.command.execute_command.start.app_error",
@@ -7232,7 +7232,7 @@
   },
   {
     "id": "api.bot.teams_channels.add_message_mobile",
-    "translation": "Kérem, adjon hozzá azokhoz a csapatokhoz és csatornákhoz, amelyekben szeretné, hogy részt vegyek. Ehhez használjon egy böngészőt vagy a Mattermost alkalmazást."
+    "translation": "Kérem, adjon hozzá azokhoz a csapatokhoz és csatornákhoz, amelyekben szeretné, hogy részt vegyek. Ehhez használjon egy böngészőt vagy a Simulanis Connect alkalmazást."
   },
   {
     "id": "api.bot.create_disabled",
@@ -7530,11 +7530,11 @@
   },
   {
     "id": "api.license.request_trial_license.app_error",
-    "translation": "Nem sikerült megszerezni a próba licencet, kérjük próbálkozzon újra, vagy írjon a support@mattermost.com címre."
+    "translation": "Nem sikerült megszerezni a próba licencet, kérjük próbálkozzon újra, vagy írjon a support@Simulanis Connect.com címre."
   },
   {
     "id": "api.license.request-trial.bad-request.terms-not-accepted",
-    "translation": "A licenc igényléséhez el kell fogadnia a Mattermost szoftver használati megállapodását és az adatvédelmi irányelveit."
+    "translation": "A licenc igényléséhez el kell fogadnia a Simulanis Connect szoftver használati megállapodását és az adatvédelmi irányelveit."
   },
   {
     "id": "api.license.request-trial.bad-request",
@@ -7694,7 +7694,7 @@
   },
   {
     "id": "api.command_remote.accept.help",
-    "translation": "Fogadja el egy külső Mattermost példány meghívását"
+    "translation": "Fogadja el egy külső Simulanis Connect példány meghívását"
   },
   {
     "id": "api.command_open.name",
@@ -7746,7 +7746,7 @@
   },
   {
     "id": "api.command_mute.no_channel.error",
-    "translation": "Nem található a megadott csatorna. A csatornák azonosításához használja a [csatorna azonosítót](https://docs.mattermost.com/messaging/managing-channels.html#naming-a-channel)."
+    "translation": "Nem található a megadott csatorna. A csatornák azonosításához használja a [csatorna azonosítót](https://docs.Simulanis Connect.com/messaging/managing-channels.html#naming-a-channel)."
   },
   {
     "id": "api.command_mute.name",
@@ -7758,7 +7758,7 @@
   },
   {
     "id": "api.command_mute.error",
-    "translation": "Nem sikerült megtalálni a {{.Channel}} csatornát. A csatornák azonosításához használja a [csatorna azonosítót](https://docs.mattermost.com/messaging/managing-channels.html#naming-a-channel)."
+    "translation": "Nem sikerült megtalálni a {{.Channel}} csatornát. A csatornák azonosításához használja a [csatorna azonosítót](https://docs.Simulanis Connect.com/messaging/managing-channels.html#naming-a-channel)."
   },
   {
     "id": "api.command_mute.desc",
@@ -7810,7 +7810,7 @@
   },
   {
     "id": "api.command_logout.desc",
-    "translation": "Kijelentkezés a Mattermostból"
+    "translation": "Kijelentkezés a Simulanis Connectból"
   },
   {
     "id": "api.command_leave.name",
@@ -7909,7 +7909,7 @@
   },
   {
     "id": "api.command_invite.channel.error",
-    "translation": "Nem sikerült megtalálni a {{.Channel}} csatornát. A csatornák azonosításához használja a [csatorna azonosítót](https://docs.mattermost.com/messaging/managing-channels.html#naming-a-channel)."
+    "translation": "Nem sikerült megtalálni a {{.Channel}} csatornát. A csatornák azonosításához használja a [csatorna azonosítót](https://docs.Simulanis Connect.com/messaging/managing-channels.html#naming-a-channel)."
   },
   {
     "id": "api.command_invite.channel.app_error",
@@ -7921,7 +7921,7 @@
   },
   {
     "id": "api.command_help.desc",
-    "translation": "Mattermost súgó üzenet megjelenítése"
+    "translation": "Simulanis Connect súgó üzenet megjelenítése"
   },
   {
     "id": "api.command_groupmsg.permission.app_error",
@@ -8040,7 +8040,7 @@
   },
   {
     "id": "api.admin.test_email.subject",
-    "translation": "Mattermost - E-mail beállítások tesztelése"
+    "translation": "Simulanis Connect - E-mail beállítások tesztelése"
   },
   {
     "id": "api.admin.test_email.reenter_password",
@@ -8052,7 +8052,7 @@
   },
   {
     "id": "api.admin.test_email.body",
-    "translation": "Úgy tűnik a Mattermost e-mail helyesen van beállítva!"
+    "translation": "Úgy tűnik a Simulanis Connect e-mail helyesen van beállítva!"
   },
   {
     "id": "api.admin.saml.set_certificate_from_metadata.missing_content_type.app_error",
@@ -8196,7 +8196,7 @@
   },
   {
     "id": "app.notification.footer.infoLogin",
-    "translation": "Bejelentkezés a Mattermostba"
+    "translation": "Bejelentkezés a Simulanis Connectba"
   },
   {
     "id": "app.notification.footer.info",
@@ -8236,7 +8236,7 @@
   },
   {
     "id": "api.email_batching.send_batched_email_notification.button",
-    "translation": "Mattermost megnyitása"
+    "translation": "Simulanis Connect megnyitása"
   },
   {
     "id": "api.command_channel_purpose.update_channel.max_length",
@@ -8300,7 +8300,7 @@
   },
   {
     "id": "app.bot.get_disable_bot_sysadmin_message",
-    "translation": "{{if .disableBotsSetting}}{{if .printAllBots}}{{.UserName}} ki lett kapcsolva. A következő bot fiókokat kezelték, amelyek le lettek tiltva.\n\n{{.BotNames}}{{else}}{{.UserName}} tiltásra került. Ők kezeltek {{.NumBots}} botfiókot, amelyek le lettek tiltva, beleértve a következőket:\n\n{{.BotNames}}{{end}}Az egyes botok tulajdonjogát úgy veheti át, hogy engedélyezi őket az **Integrációk > Botfiókok** menüpontban, és új tokeneket hoz létre a bothoz.\n\nTovábbi információért lásd a [dokumentációnkat](https://docs.mattermost.com/developer/bot-accounts.html#what-happens-when-a-user-who-owns-bot-accounts-is-disabled).{{else}}{{if .printAllBots}}{{.UserName}} letiltásra került. A következő botfiókokat kezelték, amelyek még mindig engedélyezve vannak.\n\n{{.BotNames}}\n{{else}}{{.UserName}} letiltásra került. Ők kezelték a még mindig engedélyezett {{.NumBots}} botfiókokat, köztük a következőket:\n\n{{.BotNames}}{{end}}Nyomatékosan javasoljuk, hogy vegye tulajdonába az egyes botokat, és engedélyezze újra a **Integrációk > Botfiókok** menüpontban, és hozzon létre új tokeneket a bothoz.\n\nTovábbi információért lásd a [dokumentációnkat](https://docs.mattermost.com/developer/bot-accounts.html#what-happens-when-a-user-who-owns-bot-accounts-is-disabled).\n\nHa azt szeretné, hogy a botfiókok automatikusan kikapcsolódjanak a tulajdonos litáltása után, állítsa a **Rendszerkonzol > Integrációk > Botfiókok** pontban a \"Botfiókok kikapcsolása, ha a tulajdonos letiltásra kerül\" opciót igazra.{{end}}"
+    "translation": "{{if .disableBotsSetting}}{{if .printAllBots}}{{.UserName}} ki lett kapcsolva. A következő bot fiókokat kezelték, amelyek le lettek tiltva.\n\n{{.BotNames}}{{else}}{{.UserName}} tiltásra került. Ők kezeltek {{.NumBots}} botfiókot, amelyek le lettek tiltva, beleértve a következőket:\n\n{{.BotNames}}{{end}}Az egyes botok tulajdonjogát úgy veheti át, hogy engedélyezi őket az **Integrációk > Botfiókok** menüpontban, és új tokeneket hoz létre a bothoz.\n\nTovábbi információért lásd a [dokumentációnkat](https://docs.Simulanis Connect.com/developer/bot-accounts.html#what-happens-when-a-user-who-owns-bot-accounts-is-disabled).{{else}}{{if .printAllBots}}{{.UserName}} letiltásra került. A következő botfiókokat kezelték, amelyek még mindig engedélyezve vannak.\n\n{{.BotNames}}\n{{else}}{{.UserName}} letiltásra került. Ők kezelték a még mindig engedélyezett {{.NumBots}} botfiókokat, köztük a következőket:\n\n{{.BotNames}}{{end}}Nyomatékosan javasoljuk, hogy vegye tulajdonába az egyes botokat, és engedélyezze újra a **Integrációk > Botfiókok** menüpontban, és hozzon létre új tokeneket a bothoz.\n\nTovábbi információért lásd a [dokumentációnkat](https://docs.Simulanis Connect.com/developer/bot-accounts.html#what-happens-when-a-user-who-owns-bot-accounts-is-disabled).\n\nHa azt szeretné, hogy a botfiókok automatikusan kikapcsolódjanak a tulajdonos litáltása után, állítsa a **Rendszerkonzol > Integrációk > Botfiókok** pontban a \"Botfiókok kikapcsolása, ha a tulajdonos letiltásra kerül\" opciót igazra.{{end}}"
   },
   {
     "id": "api.user.upload_profile_user.check_image_limits.app_error",
@@ -8348,7 +8348,7 @@
   },
   {
     "id": "api.license.request-trial.can-start-trial.not-allowed",
-    "translation": "Ez a teszt kulcs a Mattermost Enterprise kiadáshoz lejárt és már nem érvényes. Ha szeretné meghosszabbítani a próba időszakot, kérjük [vegye fel a kapcsolatot értékesítési csapatunkkal](https://mattermost.com/contact-us/)."
+    "translation": "Ez a teszt kulcs a Simulanis Connect Enterprise kiadáshoz lejárt és már nem érvényes. Ha szeretné meghosszabbítani a próba időszakot, kérjük [vegye fel a kapcsolatot értékesítési csapatunkkal](https://Simulanis Connect.com/contact-us/)."
   },
   {
     "id": "api.license.request-trial.can-start-trial.error",
@@ -8360,7 +8360,7 @@
   },
   {
     "id": "api.templates.license_up_for_renewal_subtitle",
-    "translation": "{{.UserName}}, az előfizetése le fog járni {{.Days}} nap múlva. Reméljük, hogy megtapasztalta a rugalmas, biztonságos csoport munkát, amit a Mattermost biztosít. Újítsa meg mielőbb az előfizetését, hogy a csapata biztosan tovább élvezhesse eme szolgáltatások nyújtotta előnyöket."
+    "translation": "{{.UserName}}, az előfizetése le fog járni {{.Days}} nap múlva. Reméljük, hogy megtapasztalta a rugalmas, biztonságos csoport munkát, amit a Simulanis Connect biztosít. Újítsa meg mielőbb az előfizetését, hogy a csapata biztosan tovább élvezhesse eme szolgáltatások nyújtotta előnyöket."
   },
   {
     "id": "api.server.license_up_for_renewal.error_sending_email",
@@ -8368,7 +8368,7 @@
   },
   {
     "id": "api.templates.license_up_for_renewal_title",
-    "translation": "A Mattermost előfizetése megújításra szorul"
+    "translation": "A Simulanis Connect előfizetése megújításra szorul"
   },
   {
     "id": "api.templates.license_up_for_renewal_subject",
@@ -8603,8 +8603,8 @@
     "translation": "Az előre becsomagolt plugin verzióját nem lehetett értelmezni."
   },
   {
-    "id": "model.oauth.is_valid.mattermost_app_id.app_error",
-    "translation": "A MattermostAppID maximális hossza 32 karakter."
+    "id": "model.oauth.is_valid.Simulanis Connect_app_id.app_error",
+    "translation": "A Simulanis ConnectAppID maximális hossza 32 karakter."
   },
   {
     "id": "api.templates.invite_team_and_channel_subject",
@@ -8620,7 +8620,7 @@
   },
   {
     "id": "api.license.request_trial_license.embargoed",
-    "translation": "Az embargóval sújtott országokra vonatkozó korlátozások miatt nem tudtuk feldolgozni a kérelmet. [További információ a dokumentációnkban](https://mattermost.com/pl/limitations-for-embargoed-countries), vagy forduljon a legal@mattermost.com címhez az exportkorlátozásokkal kapcsolatos kérdésekkel kapcsolatban."
+    "translation": "Az embargóval sújtott országokra vonatkozó korlátozások miatt nem tudtuk feldolgozni a kérelmet. [További információ a dokumentációnkban](https://Simulanis Connect.com/pl/limitations-for-embargoed-countries), vagy forduljon a legal@Simulanis Connect.com címhez az exportkorlátozásokkal kapcsolatos kérdésekkel kapcsolatban."
   },
   {
     "id": "api.getThreadsForUser.bad_only_params",
@@ -8676,7 +8676,7 @@
   },
   {
     "id": "api.file.cloud_upload.app_error",
-    "translation": "Az mmctl segítségével történő feltöltés egy felhő alapú példányra nem támogatott. Kérjük, tekintse meg a dokumentációt itt: https://docs.mattermost.com/manage/cloud-data-export.html."
+    "translation": "Az mmctl segítségével történő feltöltés egy felhő alapú példányra nem támogatott. Kérjük, tekintse meg a dokumentációt itt: https://docs.Simulanis Connect.com/manage/cloud-data-export.html."
   },
   {
     "id": "app.usage.get_storage_usage.app_error",
@@ -8736,7 +8736,7 @@
   },
   {
     "id": "api.command_help.success",
-    "translation": "A Mattermost egy nyílt forráskódú platform a biztonságos kommunikációhoz, együttműködéshez és az eszközök és csapatok közötti munka összehangolásához.\nA Mattermost két kulcsfontosságú eszközt tartalmaz:\n\n**Csatornák** - Maradjon kapcsolatban csapatával 1:1 és csoportos üzenetküldéssel.\n**[Forgatókönyvek](/playbooks)** - Építsen és konfiguráljon megismételhető folyamatokat meghatározott és kiszámítható eredmények elérése érdekében.\n\n[Dokumentáció és útmutatók megtekintése]({{.HelpLink}})"
+    "translation": "A Simulanis Connect egy nyílt forráskódú platform a biztonságos kommunikációhoz, együttműködéshez és az eszközök és csapatok közötti munka összehangolásához.\nA Simulanis Connect két kulcsfontosságú eszközt tartalmaz:\n\n**Csatornák** - Maradjon kapcsolatban csapatával 1:1 és csoportos üzenetküldéssel.\n**[Forgatókönyvek](/playbooks)** - Építsen és konfiguráljon megismételhető folyamatokat meghatározott és kiszámítható eredmények elérése érdekében.\n\n[Dokumentáció és útmutatók megtekintése]({{.HelpLink}})"
   },
   {
     "id": "api.command_marketplace.desc",

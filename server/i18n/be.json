@@ -241,7 +241,7 @@
   },
   {
     "id": "api.email_batching.send_batched_email_notification.button",
-    "translation": "Адкрыць Mattermost"
+    "translation": "Адкрыць Simulanis Connect"
   },
   {
     "id": "api.command_remote.invite_password.help",
@@ -421,7 +421,7 @@
   },
   {
     "id": "api.templates.cloud_welcome_email.button",
-    "translation": "Адкрыць Mattermost"
+    "translation": "Адкрыць Simulanis Connect"
   },
   {
     "id": "api.templates.cloud_welcome_email.app_market_place",
@@ -601,7 +601,7 @@
   },
   {
     "id": "api.command_logout.desc",
-    "translation": "Выйсці з Mattermost"
+    "translation": "Выйсці з Simulanis Connect"
   },
   {
     "id": "api.command_channel_rename.desc",
@@ -841,7 +841,7 @@
   },
   {
     "id": "api.templates.invite_body_footer.title",
-    "translation": "Што такое Mattermost?"
+    "translation": "Што такое Simulanis Connect?"
   },
   {
     "id": "api.templates.cloud_welcome_email.info",
@@ -933,7 +933,7 @@
   },
   {
     "id": "mattermost.bulletin.subject",
-    "translation": "Бюлетэнь бяспекі Mattermost"
+    "translation": "Бюлетэнь бяспекі Simulanis Connect"
   },
   {
     "id": "ent.ldap_id_migrate.app_error",
@@ -1157,7 +1157,7 @@
   },
   {
     "id": "app.notification.footer.infoLogin",
-    "translation": "Вайсці у Mattermost"
+    "translation": "Вайсці у Simulanis Connect"
   },
   {
     "id": "app.import.validate_user_import_data.profile_image.error",
@@ -1177,7 +1177,7 @@
   },
   {
     "id": "model.oauth.is_valid.mattermost_app_id.app_error",
-    "translation": "Максімальная даўжыня MattermostAppID – 32 знака."
+    "translation": "Максімальная даўжыня Simulanis ConnectAppID – 32 знака."
   },
   {
     "id": "app.prepackged-plugin.invalid_version.app_error",
@@ -1397,11 +1397,11 @@
   },
   {
     "id": "web.error.unsupported_browser.no_longer_support_version",
-    "translation": "Гэтая вэрсія вашага браўзэра больш не падтрымліваецца Mattermost"
+    "translation": "Гэтая вэрсія вашага браўзэра больш не падтрымліваецца Simulanis Connect"
   },
   {
     "id": "web.error.unsupported_browser.no_longer_support",
-    "translation": "Гэты браўзэр больш не падтрымліваецца Mattermost"
+    "translation": "Гэты браўзэр больш не падтрымліваецца Simulanis Connect"
   },
   {
     "id": "web.error.unsupported_browser.learn_more",
@@ -1413,7 +1413,7 @@
   },
   {
     "id": "web.error.unsupported_browser.download_app_or_upgrade_browser",
-    "translation": "Загрузіце дадатак Mattermost або выкарыстоўвайце падтрымліваемы браўзэр для лепшай працы."
+    "translation": "Загрузіце дадатак Simulanis Connect або выкарыстоўвайце падтрымліваемы браўзэр для лепшай працы."
   },
   {
     "id": "web.error.unsupported_browser.download",
@@ -1545,7 +1545,7 @@
   },
   {
     "id": "oauth.gitlab.tos.error",
-    "translation": "Умовы прадастаўлення паслуг GitLab абноўлены. Калі ласка, зайдзіце на gitlab.com, каб прыняць іх, а затым паспрабуйце зноў увайсці ў Mattermost."
+    "translation": "Умовы прадастаўлення паслуг GitLab абноўлены. Калі ласка, зайдзіце на gitlab.com, каб прыняць іх, а затым паспрабуйце зноў увайсці ў Simulanis Connect."
   },
   {
     "id": "model.user_access_token.is_valid.token.app_error",
@@ -2669,7 +2669,7 @@
   },
   {
     "id": "ent.migration.migratetosaml.username_already_used_by_other_user",
-    "translation": "Імя карыстальніка ўжо выкарыстоўваецца іншым карыстальнікам Mattermost."
+    "translation": "Імя карыстальніка ўжо выкарыстоўваецца іншым карыстальнікам Simulanis Connect."
   },
   {
     "id": "ent.migration.migratetosaml.user_not_found_in_users_mapping_file",
@@ -2793,7 +2793,7 @@
   },
   {
     "id": "ent.ldap.syncronize.search_failure.app_error",
-    "translation": "Не ўдалося знайсці карыстальнікаў у AD/LDAP. Праверце, ці можа сервер Mattermost падключыцца да вашага сервера AD/LDAP, і паспрабуйце зноў."
+    "translation": "Не ўдалося знайсці карыстальнікаў у AD/LDAP. Праверце, ці можа сервер Simulanis Connect падключыцца да вашага сервера AD/LDAP, і паспрабуйце зноў."
   },
   {
     "id": "app.webhooks.update_incoming.app_error",
@@ -4285,7 +4285,7 @@
   },
   {
     "id": "ent.ldap.do_login.user_filtered.app_error",
-    "translation": "Ваш уліковы запіс AD/LDAP не мае дазволу на выкарыстанне гэтага сервера Mattermost. Калі ласка, звярніцеся да сістэмнага адміністратара, каб праверыць фільтр карыстальнікаў AD/LDAP."
+    "translation": "Ваш уліковы запіс AD/LDAP не мае дазволу на выкарыстанне гэтага сервера Simulanis Connect. Калі ласка, звярніцеся да сістэмнага адміністратара, каб праверыць фільтр карыстальнікаў AD/LDAP."
   },
   {
     "id": "ent.ldap.do_login.unable_to_connect.app_error",
@@ -4345,7 +4345,7 @@
   },
   {
     "id": "ent.elasticsearch.test_config.license.error",
-    "translation": "Ваша версія сервера Mattermost не падтрымлівае Elasticsearch."
+    "translation": "Ваша версія сервера Simulanis Connect не падтрымлівае Elasticsearch."
   },
   {
     "id": "ent.elasticsearch.stop.already_stopped.app_error",
@@ -5617,43 +5617,43 @@
   },
   {
     "id": "api.upgrade_to_enterprise_status.signature.app_error",
-    "translation": "Mattermost не ўдалося абнавіць да Карпаратыўнай рэдакцыі. Не атрымалася праверыць лічбавы подпіс загружанага двайковага файла."
+    "translation": "Simulanis Connect не ўдалося абнавіць да Карпаратыўнай рэдакцыі. Не атрымалася праверыць лічбавы подпіс загружанага двайковага файла."
   },
   {
     "id": "api.upgrade_to_enterprise_status.app_error",
-    "translation": "Mattermost не ўдалося абнавіць да Карпаратыўнай рэдакцыі."
+    "translation": "Simulanis Connect не ўдалося абнавіць да Карпаратыўнай рэдакцыі."
   },
   {
     "id": "api.upgrade_to_enterprise.system_not_supported.app_error",
-    "translation": "Mattermost не ўдалося абнавіць да Карпаратыўнай рэдакцыі. Гэта функцыя будзе працаваць толькі ў сістэмах Linux з архітэктурай x86-64."
+    "translation": "Simulanis Connect не ўдалося абнавіць да Карпаратыўнай рэдакцыі. Гэта функцыя будзе працаваць толькі ў сістэмах Linux з архітэктурай x86-64."
   },
   {
     "id": "api.upgrade_to_enterprise.invalid-user.app_error",
-    "translation": "Mattermost не ўдалося абнавіць да Карпаратыўнай рэдакцыі. Сістэмны карыстач Mattermost {{.MattermostUsername}} не мае правоў на запіс у неабходны двайковы файл. Сістэмны адміністратар можа абнавіць правы доступу да файлаў, выканаўшы наступную каманду на серверы, дзе ўсталяваны Mattermost:\n\n```\nchown {{.MattermostUsername}} \"{{.Path}}\"\n```\n\nПасля змены правоў доступу да файла паспрабуйце зноў абнавіць Mattermost. Пасля абнаўлення і перазапуску не забудзьцеся аднавіць зыходныя дазволы для двайковага файла:\n\n```\nchown {{.FileUsername}} \"{{.Path}}\"\n```"
+    "translation": "Simulanis Connect не ўдалося абнавіць да Карпаратыўнай рэдакцыі. Сістэмны карыстач Simulanis Connect {{.MattermostUsername}} не мае правоў на запіс у неабходны двайковы файл. Сістэмны адміністратар можа абнавіць правы доступу да файлаў, выканаўшы наступную каманду на серверы, дзе ўсталяваны Mattermost:\n\n```\nchown {{.MattermostUsername}} \"{{.Path}}\"\n```\n\nПасля змены правоў доступу да файла паспрабуйце зноў абнавіць Mattermost. Пасля абнаўлення і перазапуску не забудзьцеся аднавіць зыходныя дазволы для двайковага файла:\n\n```\nchown {{.FileUsername}} \"{{.Path}}\"\n```"
   },
   {
     "id": "api.upgrade_to_enterprise.invalid-user-and-permission.app_error",
-    "translation": "Mattermost не ўдалося абнавіць да Карпаратыўнай рэдакцыі. Сістэмны карыстач Mattermost {{.MattermostUsername}} не мае правоў на запіс у неабходны двайковы файл. Сістэмны адміністратар можа абнавіць правы доступу да файлаў, выканаўшы наступную каманду на серверы, дзе ўсталяваны Mattermost:\n\n```\nchown {{.MattermostUsername}} \"{{.Path}}\"\nchmod +w \"{{.Path}}\"\n```\n\nПасля змены правоў доступу да файла паспрабуйце зноў абнавіць Mattermost. Пасля абнаўлення і перазапуску не забудзьцеся аднавіць зыходныя дазволы для двайковага файла:\n\n```\nchown {{.FileUsername}} \"{{.Path}}\"\nchmod -w \"{{.Path}}\"\n```"
+    "translation": "Simulanis Connect не ўдалося абнавіць да Карпаратыўнай рэдакцыі. Сістэмны карыстач Simulanis Connect {{.MattermostUsername}} не мае правоў на запіс у неабходны двайковы файл. Сістэмны адміністратар можа абнавіць правы доступу да файлаў, выканаўшы наступную каманду на серверы, дзе ўсталяваны Mattermost:\n\n```\nchown {{.MattermostUsername}} \"{{.Path}}\"\nchmod +w \"{{.Path}}\"\n```\n\nПасля змены правоў доступу да файла паспрабуйце зноў абнавіць Mattermost. Пасля абнаўлення і перазапуску не забудзьцеся аднавіць зыходныя дазволы для двайковага файла:\n\n```\nchown {{.FileUsername}} \"{{.Path}}\"\nchmod -w \"{{.Path}}\"\n```"
   },
   {
     "id": "api.upgrade_to_enterprise.invalid-permission.app_error",
-    "translation": "Mattermost не ўдалося абнавіць да Карпаратыўнай рэдакцыі. Сістэмны карыстач Mattermost {{.MattermostUsername}} не мае правоў на запіс у неабходны двайковы файл. Сістэмны адміністратар можа абнавіць правы доступу да файлаў, выканаўшы наступную каманду на серверы, дзе ўсталяваны Mattermost:\n\n```\nchmod +w \"{{.Path}}\"\n```\n\nПасля змены правоў доступу да файла паспрабуйце зноў абнавіць Mattermost. Пасля абнаўлення і перазапуску не забудзьцеся аднавіць зыходныя дазволы для двайковага файла:\n\n```\nchmod -w \"{{.Path}}\"\n```"
+    "translation": "Simulanis Connect не ўдалося абнавіць да Карпаратыўнай рэдакцыі. Сістэмны карыстач Simulanis Connect {{.MattermostUsername}} не мае правоў на запіс у неабходны двайковы файл. Сістэмны адміністратар можа абнавіць правы доступу да файлаў, выканаўшы наступную каманду на серверы, дзе ўсталяваны Mattermost:\n\n```\nchmod +w \"{{.Path}}\"\n```\n\nПасля змены правоў доступу да файла паспрабуйце зноў абнавіць Mattermost. Пасля абнаўлення і перазапуску не забудзьцеся аднавіць зыходныя дазволы для двайковага файла:\n\n```\nchmod -w \"{{.Path}}\"\n```"
   },
   {
     "id": "api.upgrade_to_enterprise.generic_error.app_error",
-    "translation": "Mattermost не ўдалося абнавіць да Карпаратыўнай рэдакцыі."
+    "translation": "Simulanis Connect не ўдалося абнавіць да Карпаратыўнай рэдакцыі."
   },
   {
     "id": "api.upgrade_to_enterprise.app_error",
-    "translation": "Абнаўленне да Mattermost Карпаратыўная рэдакцыя ўжо выконваецца."
+    "translation": "Абнаўленне да Simulanis Connect Карпаратыўная рэдакцыя ўжо выконваецца."
   },
   {
     "id": "api.upgrade_to_enterprise.already-enterprise.app_error",
-    "translation": "Вы не можаце выканаць абнаўленне, таму што вы ўжо карыстаецеся Mattermost Карпаратыўная рэдакцыя."
+    "translation": "Вы не можаце выканаць абнаўленне, таму што вы ўжо карыстаецеся Simulanis Connect Карпаратыўная рэдакцыя."
   },
   {
     "id": "api.upgrade_to_enterprise.already-done.app_error",
-    "translation": "Вы ўжо перайшлі на Mattermost Карпаратыўная рэдакцыя. Калі ласка, перазапусціце сервер, каб завяршыць абнаўленне."
+    "translation": "Вы ўжо перайшлі на Simulanis Connect Карпаратыўная рэдакцыя. Калі ласка, перазапусціце сервер, каб завяршыць абнаўленне."
   },
   {
     "id": "api.unable_to_read_file_from_backend",
@@ -5681,7 +5681,7 @@
   },
   {
     "id": "api.templates.welcome_body.info",
-    "translation": "Гэты email-адрас быў выкарыстаны для стварэння ўліковага запісу Mattermost."
+    "translation": "Гэты email-адрас быў выкарыстаны для стварэння ўліковага запісу Simulanis Connect."
   },
   {
     "id": "api.templates.welcome_body.app_download_title",
@@ -5909,7 +5909,7 @@
   },
   {
     "id": "api.templates.verify_body.info",
-    "translation": "Гэты адрас электроннай пошты быў выкарыстаны для стварэння ўліковага запісу Mattermost."
+    "translation": "Гэты адрас электроннай пошты быў выкарыстаны для стварэння ўліковага запісу Simulanis Connect."
   },
   {
     "id": "api.templates.username_change_subject",
@@ -5961,7 +5961,7 @@
   },
   {
     "id": "api.templates.remove_expired_license.subject",
-    "translation": "Карпаратыўная ліцэнзія Mattermost была адключаная."
+    "translation": "Карпаратыўная ліцэнзія Simulanis Connect была адключаная."
   },
   {
     "id": "api.templates.remove_expired_license.body.title",
@@ -6005,7 +6005,7 @@
   },
   {
     "id": "api.templates.license_up_for_renewal_title",
-    "translation": "Ваша падпіска Mattermost падлягае падаўжэнню"
+    "translation": "Ваша падпіска Simulanis Connect падлягае падаўжэнню"
   },
   {
     "id": "api.templates.license_up_for_renewal_subtitle",
@@ -6029,7 +6029,7 @@
   },
   {
     "id": "api.templates.invite_body_footer.info",
-    "translation": "Mattermost – гэта гнуткая платформа абмену паведамленнямі з адкрытым зыходным кодам, якая забяспечвае бяспечную сумесную працу ў камандзе."
+    "translation": "Simulanis Connect – гэта гнуткая платформа абмену паведамленнямі з адкрытым зыходным кодам, якая забяспечвае бяспечную сумесную працу ў камандзе."
   },
   {
     "id": "api.templates.invite_body.title",
@@ -6037,7 +6037,7 @@
   },
   {
     "id": "api.templates.invite_body.subTitle",
-    "translation": "Пачніце працу з вашай камандай на Mattermost"
+    "translation": "Пачніце працу з вашай камандай на Simulanis Connect"
   },
   {
     "id": "api.templates.email_warning",
@@ -6053,7 +6053,7 @@
   },
   {
     "id": "api.templates.email_footer_v2",
-    "translation": "© 2022 Mattermost, Inc. 530 Lytton Avenue, Second floor, Palo Alto, CA, 94301"
+    "translation": "© 2024 Simulanis Connect, Inc. 530 Lytton Avenue, Second floor, Palo Alto, CA, 94301"
   },
   {
     "id": "api.templates.email_footer",
@@ -6485,11 +6485,11 @@
   },
   {
     "id": "api.license.request_trial_license.app_error",
-    "translation": "Не ўдалося атрымаць пробную ліцэнзію, паспрабуйце яшчэ раз ці зьвяжыцеся з support@mattermost.com."
+    "translation": "Не ўдалося атрымаць пробную ліцэнзію, паспрабуйце яшчэ раз ці зьвяжыцеся з support@Simulanis.com."
   },
   {
     "id": "api.license.request-trial.can-start-trial.not-allowed",
-    "translation": "Тэрмін дзеяння гэтага выпрабавальнага ліцэнзійнага ключа для Mattermost Enterprise Edition скончыўся і больш не дзейнічае. Калі вы хочаце падоўжыць пробны перыяд, калі ласка, [звяжыцеся з нашым аддзелам продажаў] (https://mattermost.com/contact-us/)."
+    "translation": "Тэрмін дзеяння гэтага выпрабавальнага ліцэнзійнага ключа для Simulanis Connect Enterprise Edition скончыўся і больш не дзейнічае. Калі вы хочаце падоўжыць пробны перыяд, калі ласка, [звяжыцеся з нашым аддзелам продажаў] (https://mattermost.com/contact-us/)."
   },
   {
     "id": "api.license.request-trial.can-start-trial.error",
@@ -6497,7 +6497,7 @@
   },
   {
     "id": "api.license.request-trial.bad-request.terms-not-accepted",
-    "translation": "Вы павінны прыняць Пагадненне аб ацэнцы праграмнага забеспячэння Mattermost і Палітыку прыватнасці, каб запытаць ліцэнзію."
+    "translation": "Вы павінны прыняць Пагадненне аб ацэнцы праграмнага забеспячэння Simulanis Connect і Палітыку прыватнасці, каб запытаць ліцэнзію."
   },
   {
     "id": "api.license.request-trial.bad-request",
@@ -7309,7 +7309,7 @@
   },
   {
     "id": "api.command.invite_people.desc",
-    "translation": "Адправіць ліст з запрашэннем у вашу каманду Mattermost"
+    "translation": "Адправіць ліст з запрашэннем у вашу каманду Simulanis Connect"
   },
   {
     "id": "api.command.execute_command.start.app_error",
@@ -7653,7 +7653,7 @@
   },
   {
     "id": "api.admin.test_email.subject",
-    "translation": "Mattermost - Тэставанне настроек электроннай пошты"
+    "translation": "Simulanis Connect - Тэставанне настроек электроннай пошты"
   },
   {
     "id": "api.templates.deactivate_body.title",
@@ -7705,7 +7705,7 @@
   },
   {
     "id": "api.templates.cloud_welcome_email.download_mm_info",
-    "translation": "Спампаваць Mattermost App"
+    "translation": "Спампаваць Simulanis Connect App"
   },
   {
     "id": "api.templates.cloud_welcome_email.add_apps_sub_info",
@@ -7989,7 +7989,7 @@
   },
   {
     "id": "api.slackimport.slack_import.log",
-    "translation": "Лог імпарту Mattermost Slack\n"
+    "translation": "Лог імпарту Simulanis Connect Slack\n"
   },
   {
     "id": "api.slackimport.slack_add_users.unable_import",
@@ -8001,11 +8001,11 @@
   },
   {
     "id": "api.slackimport.slack_add_users.merge_existing_failed",
-    "translation": "Карыстальнік Slack аб'яднаны з існуючым карыстальнікам Mattermost па супадзенні email {{.Email}} і імя карыстальніка {{.Username}}, але было немагчыма дадаць карыстальніка ў яго каманду.\n"
+    "translation": "Карыстальнік Slack аб'яднаны з існуючым карыстальнікам Simulanis Connect па супадзенні email {{.Email}} і імя карыстальніка {{.Username}}, але было немагчыма дадаць карыстальніка ў яго каманду.\n"
   },
   {
     "id": "api.slackimport.slack_add_users.merge_existing",
-    "translation": "Slack карыстальнік зліўся з існуючым карыстальнікам Mattermost з адпаведным адрасам электроннай пошты {{.Email}} і імем карыстальніка {{.Username}}.\n"
+    "translation": "Slack карыстальнік зліўся з існуючым карыстальнікам Simulanis Connect з адпаведным адрасам электроннай пошты {{.Email}} і імем карыстальніка {{.Username}}.\n"
   },
   {
     "id": "api.slackimport.slack_add_users.email_pwd",
@@ -8013,7 +8013,7 @@
   },
   {
     "id": "api.slackimport.slack_add_channels.merge",
-    "translation": "Slack канал {{.DisplayName}} ужо існуе ў выглядзе канала Mattermost. Выраблена зліццё.\n"
+    "translation": "Slack канал {{.DisplayName}} ужо існуе ў выглядзе канала Simulanis Connect. Выраблена зліццё.\n"
   },
   {
     "id": "api.slackimport.slack_add_channels.import_failed",
@@ -8041,7 +8041,7 @@
   },
   {
     "id": "api.admin.test_email.body",
-    "translation": "Здаецца, ваша электронная пошта Mattermost наладжаная правільна!"
+    "translation": "Здаецца, ваша электронная пошта Simulanis Connect наладжаная правільна!"
   },
   {
     "id": "api.admin.saml.not_available.app_error",
@@ -8317,7 +8317,7 @@
   },
   {
     "id": "api.command_share.invite_remote.help",
-    "translation": "Запрашае вонкавы асобнік Mattermost ў бягучы сумесны канал"
+    "translation": "Запрашае вонкавы асобнік Simulanis Connect ў бягучы сумесны канал"
   },
   {
     "id": "api.command_share.invitation_sent",
@@ -8337,7 +8337,7 @@
   },
   {
     "id": "api.command_share.desc",
-    "translation": "Абагульвае бягучы канал з вонкавым серверам Mattermost."
+    "translation": "Абагульвае бягучы канал з вонкавым серверам MattermoSimulanis Connectst."
   },
   {
     "id": "api.command_share.could_not_uninvite.error",
@@ -8473,7 +8473,7 @@
   },
   {
     "id": "api.command_remote.invite_summary",
-    "translation": "Адпраўце наступнае зашыфраванае AES256-bit запрашэнне адміністратару знешняга сервера Mattermost разам з паролем. Для прыняцця запрашэння яны будуць выкарыстоўваць слэш-каманду `{{.Command}}`.\n\n```\n{{.Invitation}}\n```\n\n**Прадастаўце знешняму сайту шыфраванае злучэнне да вашага кластара праз** {{.SiteURL}}"
+    "translation": "Адпраўце наступнае зашыфраванае AES256-bit запрашэнне адміністратару знешняга сервера Simulanis Connect разам з паролем. Для прыняцця запрашэння яны будуць выкарыстоўваць слэш-каманду `{{.Command}}`.\n\n```\n{{.Invitation}}\n```\n\n**Прадастаўце знешняму сайту шыфраванае злучэнне да вашага кластара праз** {{.SiteURL}}"
   },
   {
     "id": "api.command_remote.invite_password.hint",
@@ -8509,7 +8509,7 @@
   },
   {
     "id": "api.command_remote.desc",
-    "translation": "Запрасіць бяспечныя злучэнні для сувязі паміж асобнікамі Mattermost."
+    "translation": "Запрасіць бяспечныя злучэнні для сувязі паміж асобнікамі Simulanis Connect."
   },
   {
     "id": "api.command_remote.decode_invitation.error",
@@ -8533,7 +8533,7 @@
   },
   {
     "id": "api.command_remote.accept.help",
-    "translation": "Прыняць запрашэнне ад знешняга сервера Mattermost"
+    "translation": "Прыняць запрашэнне ад знешняга сервера Simulanis Connect"
   },
   {
     "id": "api.command_online.success",
