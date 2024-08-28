@@ -55,7 +55,7 @@ export default class VersionBar extends React.PureComponent <Props, State> {
                         <React.Fragment>
                             <FormattedMessage
                                 id='version_bar.new'
-                                defaultMessage='A new version of Mattermost is available.'
+                                defaultMessage='A new version of Simulanis Connect is available.'
                             />
                             <a
                                 onClick={this.reloadPage}

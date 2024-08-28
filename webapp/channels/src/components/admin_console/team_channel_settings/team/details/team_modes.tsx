@@ -103,7 +103,7 @@ const AllowedDomainsToggle = ({syncChecked, allAllowedChecked, allowedDomainsChe
                 <input
                     type='text'
                     value={allowedDomains}
-                    placeholder='mattermost.com'
+                    placeholder='simulanis.com'
                     className='form-control'
                     onChange={(e) => onToggle(syncChecked, allAllowedChecked, allowedDomainsChecked, e.currentTarget.value)}
                     disabled={isDisabled}

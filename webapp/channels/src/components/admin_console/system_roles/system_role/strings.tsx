@@ -273,7 +273,7 @@ export const sectionStrings: Record<string, Record<string, MessageDescriptor>> =
         },
         description: {
             id: 'admin.permissions.sysconsole_section_authentication.description',
-            defaultMessage: 'Review the configuration around how users can signup and access Mattermost.',
+            defaultMessage: 'Review the configuration around how users can signup and access Simulanis Connect.',
         },
     }),
     authentication_signup: defineMessages({

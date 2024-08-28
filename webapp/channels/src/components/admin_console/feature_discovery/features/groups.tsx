@@ -17,7 +17,7 @@ const GroupsFeatureDiscovery: React.FC = () => {
             minimumSKURequiredForFeature={LicenseSkus.Enterprise}
             title={defineMessage({
                 id: 'admin.groups_feature_discovery.title',
-                defaultMessage: 'Synchronize your Active Directory/LDAP groups with Mattermost Enterprise',
+                defaultMessage: 'Synchronize your Active Directory/LDAP groups with Simulanis Connect Enterprise',
             })}
             copy={defineMessage({
                 id: 'admin.groups_feature_discovery.copy',

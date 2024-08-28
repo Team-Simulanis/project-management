@@ -290,7 +290,7 @@ export default function ChannelNotificationsModal(props: Props) {
                 titleSuffix={resetToDefaultBtn('desktop')}
                 description={formatMessage({
                     id: 'channel_notifications.desktopNotificationsDesc',
-                    defaultMessage: 'Available on Chrome, Edge, Firefox, and the Mattermost Desktop App.',
+                    defaultMessage: 'Available on Chrome, Edge, Firefox, and the Simulanis Connect Desktop App.',
                 })}
                 content={DesktopNotificationsSectionContent}
             />
@@ -303,7 +303,7 @@ export default function ChannelNotificationsModal(props: Props) {
                 titleSuffix={resetToDefaultBtn('push')}
                 description={formatMessage({
                     id: 'channel_notifications.mobileNotificationsDesc',
-                    defaultMessage: 'Notification alerts are pushed to your mobile device when there is activity in Mattermost.',
+                    defaultMessage: 'Notification alerts are pushed to your mobile device when there is activity in Simulanis Connect.',
                 })}
                 content={MobileNotificationsSectionContent}
             />

@@ -145,7 +145,7 @@ const TrialBenefitsModal = ({
             <>
                 <FormattedMessage
                     id='trial_benefits.modal.trialStartedDescriptionIntro'
-                    defaultMessage='Welcome to your Mattermost Enterprise trial! It expires on {trialExpirationDate}. '
+                    defaultMessage='Welcome to your Simulanis Connect Enterprise trial! It expires on {trialExpirationDate}. '
                     values={{
                         trialExpirationDate: trialEndDate,
                     }}

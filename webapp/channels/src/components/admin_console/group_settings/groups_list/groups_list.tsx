@@ -217,7 +217,7 @@ export default class GroupsList extends React.PureComponent<Props, State> {
                     <div className='group-description'>
                         <FormattedMessage
                             id='admin.group_settings.groups_list.mappingHeader'
-                            defaultMessage='Mattermost Linking'
+                            defaultMessage='Simulanis Connect Linking'
                         />
                     </div>
                     <div className='group-actions'/>

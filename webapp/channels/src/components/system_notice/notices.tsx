@@ -32,7 +32,7 @@ const notices: Notice[] = [
         title: (
             <FormattedMessage
                 id='system_notice.title'
-                defaultMessage='Notice from Mattermost'
+                defaultMessage='Notice from Simulanis Connect'
             />
         ),
         body: (
@@ -65,13 +65,13 @@ const notices: Notice[] = [
         title: (
             <FormattedMessage
                 id='system_notice.title'
-                defaultMessage='Notice from Mattermost'
+                defaultMessage='Notice from Simulanis Connect'
             />
         ),
         body: (
             <FormattedMessage
                 id='system_notice.body.permissions'
-                defaultMessage='Some policy and permission System Console settings have moved with the release of <link>advanced permissions</link> into Mattermost Free and Professional.'
+                defaultMessage='Some policy and permission System Console settings have moved with the release of <link>advanced permissions</link> into Simulanis Connect Free and Professional.'
                 values={{
                     link: (msg: React.ReactNode) => (
                         <ExternalLink
@@ -104,7 +104,7 @@ const notices: Notice[] = [
         title: (
             <FormattedMessage
                 id='system_notice.title'
-                defaultMessage='Notice from Mattermost'
+                defaultMessage='Notice from Simulanis Connect'
             />
         ),
         body: (
@@ -148,7 +148,7 @@ const notices: Notice[] = [
         title: (
             <FormattedMarkdownMessage
                 id='system_notice.title'
-                defaultMessage='Notice from Mattermost'
+                defaultMessage='Notice from Simulanis Connect'
             />
         ),
         allowForget: false,

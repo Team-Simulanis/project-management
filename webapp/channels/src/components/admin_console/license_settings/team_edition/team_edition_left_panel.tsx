@@ -19,9 +19,9 @@ const TeamEdition: React.FC<TeamEditionProps> = ({openEELicenseModal, currentPla
             </div>
             <hr/>
             <div>
-                <p>{'When using Mattermost Team Edition, the software is offered under a Mattermost MIT Compiled License. See MIT-COMPILED-LICENSE.md in your root install directory for details.'}</p>
+                <p>{'When using Simulanis Connect Team Edition, the software is offered under a Simulanis Connect MIT Compiled License. See MIT-COMPILED-LICENSE.md in your root install directory for details.'}</p>
                 <p>
-                    {'When using Mattermost Enterprise Edition, the software is offered under a commercial license. See '}
+                    {'When using Simulanis Connect Enterprise Edition, the software is offered under a commercial license. See '}
                     <a
                         role='button'
                         onClick={openEELicenseModal}

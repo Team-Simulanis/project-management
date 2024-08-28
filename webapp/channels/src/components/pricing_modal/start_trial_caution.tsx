@@ -28,7 +28,7 @@ function StartTrialCaution() {
 
     const message = formatMessage({
         id: 'pricing_modal.start_trial.disclaimer',
-        defaultMessage: 'By selecting <span>Try free for 30 days,</span> I agree to the <linkAgreement>Mattermost Software and Services License Agreement</linkAgreement>, <linkPrivacy>Privacy Policy</linkPrivacy>, and receiving product emails.',
+        defaultMessage: 'By selecting <span>Try free for 30 days,</span> I agree to the <linkAgreement>Simulanis Connect Software and Services License Agreement</linkAgreement>, <linkPrivacy>Privacy Policy</linkPrivacy>, and receiving product emails.',
     }, {
         span: (chunks: React.ReactNode | React.ReactNodeArray) => (<Span>{chunks}</Span>),
         linkAgreement: (msg: React.ReactNode) => (

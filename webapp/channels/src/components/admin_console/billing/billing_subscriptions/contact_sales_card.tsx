@@ -60,13 +60,13 @@ const ContactSalesCard = (props: Props) => {
         title = (
             <FormattedMessage
                 id='admin.billing.subscription.privateCloudCard.cloudEnterprise.title'
-                defaultMessage='Looking to rollout Mattermost for your entire organization? '
+                defaultMessage='Looking to rollout Simulanis Connect for your entire organization? '
             />
         );
         description = (
             <FormattedMessage
                 id='admin.billing.subscription.privateCloudCard.cloudEnterprise.description'
-                defaultMessage='At Mattermost, we work with you and your organization to meet your needs throughout the product. If you’re considering a wider rollout, talk to us.'
+                defaultMessage='At Simulanis Connect, we work with you and your organization to meet your needs throughout the product. If you’re considering a wider rollout, talk to us.'
             />
         );
     } else {
@@ -104,13 +104,13 @@ const ContactSalesCard = (props: Props) => {
             title = (
                 <FormattedMessage
                     id='admin.billing.subscription.privateCloudCard.cloudEnterprise.title'
-                    defaultMessage='Looking to rollout Mattermost for your entire organization? '
+                    defaultMessage='Looking to rollout Simulanis Connect for your entire organization? '
                 />
             );
             description = (
                 <FormattedMessage
                     id='admin.billing.subscription.privateCloudCard.cloudEnterprise.description'
-                    defaultMessage='At Mattermost, we work with you and your organization to meet your needs throughout the product. If you’re considering a wider rollout, talk to us.'
+                    defaultMessage='At Simulanis Connect, we work with you and your organization to meet your needs throughout the product. If you’re considering a wider rollout, talk to us.'
                 />
             );
             break;

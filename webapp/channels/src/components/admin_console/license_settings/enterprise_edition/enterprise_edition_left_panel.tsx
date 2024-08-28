@@ -38,7 +38,7 @@ export interface EnterpriseEditionProps {
 }
 
 export const messages = defineMessages({
-    keyRemove: {id: 'admin.license.keyRemove', defaultMessage: 'Remove license and downgrade to Mattermost Free'},
+    keyRemove: {id: 'admin.license.keyRemove', defaultMessage: 'Remove license and downgrade to Simulanis Connect Free'},
 });
 
 const EnterpriseEditionLeftPanel = ({
@@ -100,7 +100,7 @@ const EnterpriseEditionLeftPanel = ({
                         />
                     </div>
                     <div className='title'>
-                        {`Mattermost ${skuName}`}
+                        {`Simulanis Connect ${skuName}`}
                         {isTrialLicense && (
                             <Tag
                                 text={formatMessage({
@@ -119,7 +119,7 @@ const EnterpriseEditionLeftPanel = ({
             <div className='subtitle'>
                 <FormattedMessage
                     id='admin.license.enterpriseEdition.subtitle'
-                    defaultMessage='This is an Enterprise Edition for the Mattermost {skuName} plan'
+                    defaultMessage='This is an Enterprise Edition for the Simulanis Connect {skuName} plan'
                     values={{skuName}}
                 />
             </div>
@@ -155,7 +155,7 @@ const EnterpriseEditionLeftPanel = ({
                 {/* This notice should not be translated */}
                 {upgradedFromTE ? <>
                     <p>
-                        {'When using Mattermost Enterprise Edition, the software is offered under a commercial license. See '}
+                        {'When using Simulanis Connect Enterprise Edition, the software is offered under a commercial license. See '}
                         <a
                             role='button'
                             onClick={openEELicenseModal}
@@ -248,7 +248,7 @@ const renderLicenseContent = (
 ) => {
     // Note: DO NOT LOCALISE THESE STRINGS. Legally we can not since the license is in English.
 
-    const sku = license.SkuShortName ? <>{`Mattermost ${toTitleCase(skuName)}${isTrialLicense ? ' License Trial' : ''}`}</> : null;
+    const sku = license.SkuShortName ? <>{`Simulanis Connect ${toTitleCase(skuName)}${isTrialLicense ? ' License Trial' : ''}`}</> : null;
 
     const users = <FormattedNumber value={parseInt(license.Users, 10)}/>;
     const activeUsers = <FormattedNumber value={statsActiveUsers}/>;

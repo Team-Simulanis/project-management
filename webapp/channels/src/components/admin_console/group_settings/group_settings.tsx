@@ -50,7 +50,7 @@ const GroupSettings = ({isDisabled}: Props) => {
                     <AdminPanel
                         id='ldap_groups'
                         title={defineMessage({id: 'admin.group_settings.ldapGroupsTitle', defaultMessage: 'AD/LDAP Groups'})}
-                        subtitle={defineMessage({id: 'admin.group_settings.ldapGroupsDescription', defaultMessage: 'Connect AD/LDAP and create groups in Mattermost. To get started, configure group attributes on the <link>AD/LDAP</link> configuration page.'})}
+                        subtitle={defineMessage({id: 'admin.group_settings.ldapGroupsDescription', defaultMessage: 'Connect AD/LDAP and create groups in Simulanis Connect. To get started, configure group attributes on the <link>AD/LDAP</link> configuration page.'})}
                         subtitleValues={{
                             link: (msg: React.ReactNode) => (
                                 <ExternalLink
