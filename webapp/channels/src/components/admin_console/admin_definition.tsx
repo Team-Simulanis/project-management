@@ -12,7 +12,7 @@ import type {CloudState, Product} from '@mattermost/types/cloud';
 import type {AdminConfig, ClientLicense} from '@mattermost/types/config';
 import type {Job} from '@mattermost/types/jobs';
 
-import {RESOURCE_KEYS} from 'connect-redux/constants/permissions_sysconsole';
+import {RESOURCE_KEYS} from 'mattermost-redux/constants/permissions_sysconsole';
 
 import {
     ldapTest, invalidateAllCaches, reloadConfig, testS3Connection,
